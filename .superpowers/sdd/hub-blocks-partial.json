@@ -1,0 +1,1204 @@
+{
+  "blocks": [
+    {
+      "id": "1ba8e6c5-e6bc-4ed1-add1-a0e84b7d66d5",
+      "type": "paragraph",
+      "text": "Pokémon Crystal Legacy — คู่มือฉบับสมบูรณ์ (แผนที่ 2 ภูมิภาค เนื้อเรื่อง ปริศนา ภารกิจเสริม)",
+      "has_children": false
+    },
+    {
+      "id": "5a94fb21-5936-4c13-9c85-aaa69c00cc40",
+      "type": "callout",
+      "text": "วิธีอ่านป้ายกำกับ",
+      "has_children": true
+    },
+    {
+      "id": "c34ecf54-ef68-46b9-89f2-886ca685d493",
+      "type": "callout",
+      "text": "โครงสร้างแผนที่ ปริศนา และตำแหน่ง NPC อ้างอิงจาก Crystal ต้นฉบับ ซึ่ง Legacy ไม่ได้แก้ สิ่งที่ Legacy เปลี่ยนคือทีม Trai",
+      "has_children": false
+    },
+    {
+      "id": "1d342539-ec10-4311-b4f2-cd7fb6fe0a44",
+      "type": "callout",
+      "text": "ทางลัดสำหรับตรวจสอบ — Crystal Legacy สร้างบน pokecrystal disassembly และเปิด source บน GitHub อ่านไฟล์เหล่านี้ได้โดยตรงแ",
+      "has_children": false
+    },
+    {
+      "id": "737b3c48-f8b2-4e53-86b7-155065e0be10",
+      "type": "table_of_contents",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "ac7b38f7-b68f-4a25-93ca-834894dcd335",
+      "type": "divider",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "b4a62d77-4a42-4256-aff2-647a51e536ce",
+      "type": "heading_1",
+      "text": "แผนที่",
+      "has_children": false
+    },
+    {
+      "id": "bd3bc8d0-6254-42cf-b882-098e8b83ea4e",
+      "type": "heading_2",
+      "text": "Johto",
+      "has_children": false
+    },
+    {
+      "id": "3b7da311-a58e-8071-90b0-f207ea6e9a11",
+      "type": "image",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "f17f8c28-13c9-44a6-bffc-0b38965b2df2",
+      "type": "image",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "d50e62ab-92cb-40d9-90ef-31cc0ec358c9",
+      "type": "paragraph",
+      "text": "กล่องน้ำเงินคือเมือง (ป้ายแดงบอกลำดับยิม) · กล่องเทาคือถนน · กล่องส้มคือสถานที่พิเศษ · กล่องฟ้าคือเส้นทางน้ำที่ต้องใช้ S",
+      "has_children": false
+    },
+    {
+      "id": "c23a6c7a-6143-420e-b90a-2b02f7d54e71",
+      "type": "heading_3",
+      "text": "ลำดับการเดินทางหลัก Johto",
+      "has_children": false
+    },
+    {
+      "id": "d498ee51-637d-4988-a16e-9c9290f79e15",
+      "type": "paragraph",
+      "text": "New Bark Town → Route 29 → Cherrygrove → Route 30/31 → Violet City (ยิม 1) → Route 32 → Union Cave → Route 33 → Azalea T",
+      "has_children": false
+    },
+    {
+      "id": "386b2b1b-3584-438f-8bd3-32de0b031558",
+      "type": "heading_2",
+      "text": "Kanto (Post-game)",
+      "has_children": false
+    },
+    {
+      "id": "0763e4c5-cb8b-426c-8618-667c81c35535",
+      "type": "image",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "c78449f5-b09b-43d9-86db-643752d45dd0",
+      "type": "paragraph",
+      "text": "เข้าสู่ Kanto ด้วยเรือจาก Olivine ไป Vermilion City — ยิมทั้ง 8 ของ Kanto ไม่มีลำดับตายตัว เก็บตามสะดวกได้ตามที่มี HM คร",
+      "has_children": false
+    },
+    {
+      "id": "54c32c99-bc5a-413a-94cd-2a37a03a9608",
+      "type": "quote",
+      "text": "Route 28 เชื่อม Mt. Silver กลับไปฝั่ง Johto — Mt. Silver เปิดเมื่อเก็บ Badge ครบ 16 อัน เพื่อไปพบ Red บททดสอบสุดท้ายของเ",
+      "has_children": false
+    },
+    {
+      "id": "9596d6eb-82e4-4d6a-be44-a6509353ec9b",
+      "type": "divider",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "420b719d-e015-4a57-aa66-46e7fa806bc1",
+      "type": "heading_1",
+      "text": "บริการและกิจกรรมประจำ",
+      "has_children": false
+    },
+    {
+      "id": "32c5de7b-87d7-4d73-9195-a86afb6209fd",
+      "type": "paragraph",
+      "text": "ไม่ผูกกับเนื้อเรื่อง แต่ส่งผลกับทีมโดยตรง โดยเฉพาะเรื่อง Friendship ที่จำเป็นต่อการ evolve Togepi และ Eevee",
+      "has_children": false
+    },
+    {
+      "id": "35c2ab13-1d88-47d3-b4fd-7c308ddbf283",
+      "type": "heading_2",
+      "text": "Haircut Brothers — ช่างตัดผมให้ Pokémon",
+      "has_children": false
+    },
+    {
+      "id": "4407c8f7-c0a5-4b6e-8947-f1b23d06eb47",
+      "type": "callout",
+      "text": "พี่น้อง 2 คนผลัดกันเปิดร้าน ตัดผมให้ Pokémon 1 ตัวต่อวัน เพิ่มค่า Friendship — เป็นวิธีเร่ง evolve Togepi และ Eevee ที่เ",
+      "has_children": true
+    },
+    {
+      "id": "ab3b41a5-9cc7-438b-a64c-ec0689d2fadd",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "d09b34e8-939f-468a-b459-6081ce38d333",
+      "type": "quote",
+      "text": "กลยุทธ์: ใช้พี่ชายจนกว่า Friendship จะถึงราว 200 แล้วสลับไปใช้น้องชายเพื่อประหยัดเงิน — ช่วง Kanto มี Daisy Oak นวดให้ฟร",
+      "has_children": false
+    },
+    {
+      "id": "7629b907-0951-45a7-bba6-489f3e47b1da",
+      "type": "heading_2",
+      "text": "ร้านอื่นใน Goldenrod Underground",
+      "has_children": false
+    },
+    {
+      "id": "a2ff5491-f1f5-4711-9b39-aefff4c6c0ad",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Bargain Shop ขายของหายากราคาถูก เปิดเฉพาะเช้าวันจันทร์ ซื้อได้อย่างละ 1 ชิ้นต่อสัปดาห์",
+      "has_children": false
+    },
+    {
+      "id": "0de93115-7db3-4e28-8a3f-9df33d473a48",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Herb Shop ขายสมุนไพรราคาถูก ฟื้นฟูดีแต่ลด Friendship เปิดวันเสาร์-อาทิตย์",
+      "has_children": false
+    },
+    {
+      "id": "8522f235-8c5f-4a96-91cc-ff28cb499318",
+      "type": "quote",
+      "text": "ทั้ง 3 ร้านไม่เคยเปิดพร้อมกัน ต้องดูวันให้ตรง",
+      "has_children": false
+    },
+    {
+      "id": "d29db63a-c6d3-4287-b7f1-586f3895ce91",
+      "type": "heading_2",
+      "text": "Buena's Password",
+      "has_children": false
+    },
+    {
+      "id": "8cb42deb-239f-4ce2-b5a7-f3e09d4fd792",
+      "type": "paragraph",
+      "text": "[สำคัญ] รับ Blue Card จาก Buena แล้วฟังวิทยุช่อง 10.5 ช่วง 18:00-24:00 เพื่อจดรหัสประจำวัน ไปตอบได้ 1 แต้มต่อวัน สะสมแลก",
+      "has_children": false
+    },
+    {
+      "id": "23955a8a-0b3f-4b9a-b1e9-62e237a8ad2c",
+      "type": "quote",
+      "text": "ตำแหน่ง: Buena อยู่ชั้น 2 ของ Goldenrod Radio Tower ส่วนคนแลกของรางวัลคือหญิงชุดเขียวที่ยืนข้างๆ เธอ\nต้องมี Radio Card ก",
+      "has_children": false
+    },
+    {
+      "id": "c5739fa7-5fdb-4ea5-b5a5-3c79255d6f40",
+      "type": "heading_2",
+      "text": "Week Siblings — พี่น้อง 7 คนประจำวัน",
+      "has_children": false
+    },
+    {
+      "id": "d97495bf-c77d-447b-bc26-65b24d6a303c",
+      "type": "paragraph",
+      "text": "[สำคัญ] แต่ละคนโผล่คนละวัน คนละที่ ให้ไอเทมเสริมพลังท่าธาตุคนละ 1 ชิ้น ได้ครั้งเดียวต่อคน — ต้องมี Zephyr Badge ก่อนพวกเ",
+      "has_children": false
+    },
+    {
+      "id": "0dab5cc9-a0ec-4de8-b0c7-cabed341c91c",
+      "type": "quote",
+      "text": "ตำแหน่ง: บ้านของพวกเขาอยู่บน Route 26 เดินอ้อมหลังแนวต้นไม้ ในบ้านมีโน้ตบอกตารางวันและสถานที่ของทุกคน",
+      "has_children": false
+    },
+    {
+      "id": "fa47ed01-f789-4cdb-9296-d233c5b8de69",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "34470837-ec64-4b5e-b171-c09d7fcf6fc0",
+      "type": "quote",
+      "text": "Arthur (พฤหัสบดี) อยู่บน Route 36 ใกล้จุดรับ TM08 Rock Smash แวะเก็บพร้อมกันได้",
+      "has_children": false
+    },
+    {
+      "id": "89d2263f-52f9-4ae3-a20f-0def76a60613",
+      "type": "heading_2",
+      "text": "Move Tutor — Ice Beam / Thunderbolt / Flamethrower",
+      "has_children": false
+    },
+    {
+      "id": "4cd4b646-642e-4162-8b59-00b12313b8b7",
+      "type": "callout",
+      "text": "[Legacy ต่าง] จุดนี้ Legacy แก้จากต้นฉบับชัดเจน อย่าใช้ข้อมูล Crystal เดิม — ต้นฉบับคือ 4,000 เหรียญ เปิดหลัง Elite Four",
+      "has_children": true
+    },
+    {
+      "id": "8ad3fbef-bed1-4565-ac5d-46f37e6aadcb",
+      "type": "quote",
+      "text": "สำคัญกับทีมคุณมาก: Totodile เรียน Ice Beam ได้จากที่นี่ เป็นทางเดียวที่จะได้ท่า Special แรงๆ ก่อน Hydro Pump (Lv.52) และ",
+      "has_children": false
+    },
+    {
+      "id": "afca767f-dc5c-4d6e-ab42-e201d937a1a2",
+      "type": "heading_2",
+      "text": "Bill และ Eevee — เควสรับ Eevee ฟรี",
+      "has_children": false
+    },
+    {
+      "id": "08d7317d-91e3-4ba2-8b12-c09b6e4de1c5",
+      "type": "callout",
+      "text": "เควสนี้ต้องเริ่มที่ Ecruteak ไม่ใช่ Goldenrod — เป็นจุดที่คนพลาดกันบ่อยที่สุด ถ้าไม่คุยกับ Bill ที่ Ecruteak ก่อน ไปที่บ",
+      "has_children": false
+    },
+    {
+      "id": "fda9845c-8a16-42c2-882f-1a7092f752d0",
+      "type": "numbered_list_item",
+      "text": "คุยกับ Bill ที่ Pokémon Center เมือง Ecruteak City — เขายืนอยู่ในตัว Pokémon Center เลย คุยแล้วเขาจะบอกว่ากำลังจะกลับบ้า",
+      "has_children": false
+    },
+    {
+      "id": "08c09a55-dc25-4551-aee2-0abdb2021d43",
+      "type": "numbered_list_item",
+      "text": "กลับไปที่ บ้าน Bill ใน Goldenrod City คุยกับเขา → ได้ Eevee ฟรี 1 ตัว ระดับ Lv.20 และน้องสาวเขาให้เบอร์โทรสำหรับจัดการกล",
+      "has_children": false
+    },
+    {
+      "id": "c2de2caf-0dc1-4639-97db-bd3d0fecd1fc",
+      "type": "quote",
+      "text": "ตำแหน่ง: บ้าน Bill อยู่โซนใต้ของ Goldenrod City ฝั่งซ้าย เป็นบ้านธรรมดาไม่มีป้ายบอก ก่อนเจอตัวจริง แม่และน้องสาวเขาอยู่บ",
+      "has_children": false
+    },
+    {
+      "id": "9297249b-33dc-412d-a679-96807a60cc6f",
+      "type": "heading_3",
+      "text": "ข้อควรระวังเรื่อง DV และ Friendship",
+      "has_children": false
+    },
+    {
+      "id": "1c7e6c7d-5794-4d82-b922-5f81d16b8e82",
+      "type": "callout",
+      "text": "เซฟหน้า Bill ก่อนกดคุยรับตัว — Eevee เป็น gift Pokémon ค่า DV ถูกกำหนดตอนรับ เหมือน Togepi ที่ Violet ถ้าอยากได้ DV ดีต้",
+      "has_children": false
+    },
+    {
+      "id": "e3005f7e-5474-44ca-940c-c6422cd0b69f",
+      "type": "bulleted_list_item",
+      "text": "เล็ง Special DV เป็นหลัก — ทั้ง Espeon และ Umbreon ได้ประโยชน์จาก Special DV ทั้งคู่ เพราะ Gen 2 ใช้ค่าเดียวคุมทั้ง Sp.A",
+      "has_children": false
+    },
+    {
+      "id": "8fb68d3d-8012-4131-bd51-3f14202f10cc",
+      "type": "bulleted_list_item",
+      "text": "Friendship ไม่ต้องรีบ — Haircut Brothers อยู่ที่ Goldenrod Underground ซึ่งเดินไม่กี่ก้าวจากบ้าน Bill พอดี",
+      "has_children": false
+    },
+    {
+      "id": "4160c9fe-5519-44e3-9bf9-960721281d32",
+      "type": "bulleted_list_item",
+      "text": "Evolve ตาม Friendship + ช่วงเวลาที่เลเวลอัพ: กลางวันเป็น Espeon กลางคืนเป็น Umbreon",
+      "has_children": false
+    },
+    {
+      "id": "4066111e-3959-4705-a525-4a82a909bbf0",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Eevee เป็นธาตุ Normal จึงไม่โดนท่า Ghost เลย พารับ Morty ที่ยิม Ecruteak ได้สบาย แต่ระวัง Gengar ที่มีท่าธาตุ Po",
+      "has_children": false
+    },
+    {
+      "id": "348a056c-e006-4f0a-9ba4-e36f08f0d986",
+      "type": "heading_3",
+      "text": "เก็บ Eevee ให้ครบทั้ง 5 ร่าง",
+      "has_children": false
+    },
+    {
+      "id": "9c59b747-471e-4632-b1a3-b80f9379d5f3",
+      "type": "paragraph",
+      "text": "ได้ตัวแจกฟรีแค่ตัวเดียว แต่เพาะพันธุ์เพิ่มได้ที่ Day Care บน Route 34 โดยจับ Ditto (เจอบน Route 34 เส้นเดียวกับ Day Care",
+      "has_children": false
+    },
+    {
+      "id": "b06bfc7d-9430-4ce0-8a79-50ece253e788",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "4f7cd558-dacd-47a0-9ea6-039ff74ef1b6",
+      "type": "callout",
+      "text": "DV ของลูกมาจาก Ditto ไม่ใช่จาก Eevee — เมื่อผสมกับ Ditto ลูกจะรับ DV จาก Ditto เสมอไม่ว่าเพศอะไร โดย Defense DV ส่งต่อเป",
+      "has_children": true
+    },
+    {
+      "id": "a04ba715-e92b-4931-9d04-faa884d3d58c",
+      "type": "quote",
+      "text": "กับดัก: ผสมสองตัวที่มี Defense DV เท่ากันและ Special DV เท่ากันหรือต่างกัน 8 ไม่ได้ — ลูกที่ออกมาจะมีค่าตรงเงื่อนไขนี้กั",
+      "has_children": false
+    },
+    {
+      "id": "f15f2fad-fd29-48d8-8ab6-a612feca0a75",
+      "type": "quote",
+      "text": "เรื่องหิน: ต้นฉบับต้องรอไป Celadon Department Store ที่ Kanto ช่วง post-game แต่ Legacy ให้ Cianwood Pharmacy ขาย Evolut",
+      "has_children": false
+    },
+    {
+      "id": "cedc0f44-856c-49a0-bf74-70f1d2a847d5",
+      "type": "heading_2",
+      "text": "PokéGear — เบอร์โทรและระบบ Swarm",
+      "has_children": false
+    },
+    {
+      "id": "a7400eb2-dc5b-49c0-8b62-c39ffd823ce0",
+      "type": "callout",
+      "text": "PokéGear เก็บได้สูงสุด 10 เบอร์ โดย 3 เบอร์แรก (Mom, Prof. Elm, Bill) ถูกล็อกไว้ ลบไม่ได้ — เหลือช่องให้เติมเองอีก 7 ช่อ",
+      "has_children": true
+    },
+    {
+      "id": "d6a77cfb-cfe2-4722-a784-2b8cf2c2bc91",
+      "type": "heading_3",
+      "text": "Swarm — เหตุผลหลักที่ควรเก็บเบอร์",
+      "has_children": false
+    },
+    {
+      "id": "919dd71c-293a-48d6-b05e-e32078017b51",
+      "type": "paragraph",
+      "text": "Crystal มี swarm จริงแค่ 3 ตัว: Yanma / Dunsparce / Qwilfish — ตอน swarm พื้นที่นั้นสลับไปใช้ตาราง encounter พิเศษ ทำให้",
+      "has_children": false
+    },
+    {
+      "id": "b716a42e-4517-439b-bdc0-0d0e9183ff4d",
+      "type": "paragraph",
+      "text": "ทางเดียวที่จะรู้ว่า swarm เกิดคือรอสายจากเทรนเนอร์ 3 คนนี้:",
+      "has_children": false
+    },
+    {
+      "id": "407e7115-bf33-42a0-8701-d5fddbb98c91",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "f1a7e239-f036-4345-8aba-3147217208b8",
+      "type": "callout",
+      "text": "เทคนิคเร่ง swarm: 1) ลบเบอร์อื่นออกให้หมด เหลือแค่ Arnie / Anthony / Ralph ตามตัวที่อยากได้ — ระบบสุ่มคนโทรจากลิสต์ ลิสต",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-8157-a89c-c48f5efd0a20",
+      "type": "paragraph",
+      "text": "ต้องชนะเทรนเนอร์ก่อน แล้วคุยอีกครั้งเพื่อแลกเบอร์ — จากนั้นรอสายแจ้ง swarm เท่านั้น จึงจะรู้ว่ากำลังเกิด (บังคับไม่ได้)",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-816a-91f0-e3c53bd78c53",
+      "type": "paragraph",
+      "text": "อัตราตอน swarm (เทียบจากโค้ด Legacy / Crystal):",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-811b-930b-f35851320b23",
+      "type": "bulleted_list_item",
+      "text": "Yanma @ Route 35 — swarm ~30% / ปกติใน Legacy ~21% (ติดใน johnto_grass แล้ว) [Legacy ต่าง]",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-818b-bcd2-d39b3ec17ea0",
+      "type": "bulleted_list_item",
+      "text": "Dunsparce @ Dark Cave (ทางเข้า Violet) — swarm ~40% / ปกติ ~1%",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-8111-b5c5-f03b0c5c69f5",
+      "type": "bulleted_list_item",
+      "text": "Qwilfish @ Route 32 (ตกปลา) — swarm: Old ~15% / Good ~65% / Super 100% (ปกติ Super มี Qwilfish ~10%)",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-8152-b6ca-e2bbda705413",
+      "type": "paragraph",
+      "text": "มีประโยชน์กับ shiny hunt / ไล่ DV — จับซ้ำได้เร็วตอน swarm ค้างอยู่",
+      "has_children": false
+    },
+    {
+      "id": "3b8da311-a58e-81c4-8342-fbe63de240d1",
+      "type": "paragraph",
+      "text": "อ้างอิงไกด์: Pokémon Crystal Swarms Guide (Guide Strats) — ตรวจกับ data/wild/swarm_grass.asm + fish.asm ใน repo แล้ว",
+      "has_children": false
+    },
+    {
+      "id": "42df37cc-4ba5-4706-bda8-ba5064e79e5e",
+      "type": "heading_3",
+      "text": "ประโยชน์อื่นของเบอร์โทร",
+      "has_children": false
+    },
+    {
+      "id": "7cbe2264-556e-424d-9a01-f531fde8a31f",
+      "type": "bulleted_list_item",
+      "text": "รีแมตช์: มี 44 เทรนเนอร์ที่ท้าสู้ซ้ำได้ ทีมจะแข็งขึ้นเรื่อยๆ ตามรอบ บางคนอัปได้ถึง 4 ระดับ และทีมช่วงหลังมีโปเกมอนจากภูม",
+      "has_children": false
+    },
+    {
+      "id": "07286cec-b7d7-48e0-afb2-e0af9f549800",
+      "type": "bulleted_list_item",
+      "text": "แจกไอเทม: ฟีเจอร์ที่ Crystal เพิ่มเข้ามา เทรนเนอร์จะให้ของเป็นครั้งคราว โดยเฉพาะหลังรีแมตช์ — เป็นทางได้ evolution stone",
+      "has_children": true
+    },
+    {
+      "id": "e349b0ae-1528-4a4a-a75c-1829893a05ca",
+      "type": "heading_2",
+      "text": "Kurt, Name Rater, Move Deleter",
+      "has_children": false
+    },
+    {
+      "id": "04cdba6f-4800-4ce5-b5ae-0741023961d4",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Kurt — เก็บ Apricorn จากต้นไม้ทั่ว Johto ฝากเขาปั้นเป็น Ball พิเศษ (Level/Lure/Fast/Heavy/Friend/Moon Ball) รอ 1",
+      "has_children": true
+    },
+    {
+      "id": "50f096d6-e8c7-4bd0-8489-85a8664ec854",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Name Rater — เปลี่ยนชื่อเล่นได้เฉพาะตัวที่ ID ตรงกับผู้เล่น ตัวที่เทรดมาเปลี่ยนไม่ได้",
+      "has_children": true
+    },
+    {
+      "id": "9b52179a-a731-41fd-86ac-41c2f0bee050",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Move Deleter — ลบท่าออกได้ รวมถึงท่า HM",
+      "has_children": true
+    },
+    {
+      "id": "ff7cfd9d-d517-4800-9864-fb6ce50c61ff",
+      "type": "heading_2",
+      "text": "ร้านค้าและไอเทมที่ Legacy เปลี่ยน",
+      "has_children": false
+    },
+    {
+      "id": "7ea0b45d-0a2f-411b-aa6b-6f217561d6bc",
+      "type": "callout",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "e7c03f4d-56f6-4f94-a9b2-d8508873a37d",
+      "type": "divider",
+      "text": "",
+      "has_children": false
+    },
+    {
+      "id": "40d35513-16a9-47f8-a868-45441ad0f37f",
+      "type": "heading_1",
+      "text": "เดินเนื้อเรื่อง Johto",
+      "has_children": false
+    },
+    {
+      "id": "b866213a-9183-4e88-8016-4a8b8a4b2cee",
+      "type": "heading_2",
+      "text": "New Bark Town / Route 29 / Cherrygrove City",
+      "has_children": false
+    },
+    {
+      "id": "f038e233-c55a-4ea3-8539-0659423e654a",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] รับ Totodile จาก Prof. Elm",
+      "has_children": true
+    },
+    {
+      "id": "f6c3c0ae-4295-47ed-9f6b-0eb51b544719",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] แม่ให้ Pocket Gear ก่อนออกจากบ้าน (บ้านผู้เล่นอยู่มุมซ้ายบนของเมือง)",
+      "has_children": false
+    },
+    {
+      "id": "311e3d87-5edc-4405-bbc8-37c4e3123670",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Cherrygrove: ผู้เฒ่าพาทัวร์เมือง ได้ Map Card — เขาเดินเข้ามาคุยเองตอนเข้าเมืองครั้งแรก",
+      "has_children": false
+    },
+    {
+      "id": "1d27fc19-6d77-418b-9ad6-9bf1de05410b",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Rival ขโมยโปเกมอนจากแล็บ Elm แล้วปะทะกันครั้งแรกใกล้ Route 29/30",
+      "has_children": false
+    },
+    {
+      "id": "8af89dfb-26f1-4155-8d62-eafd67524141",
+      "type": "heading_2",
+      "text": "Route 30-31 / Violet City",
+      "has_children": false
+    },
+    {
+      "id": "4a2720f1-3047-4707-97aa-b85e6770aa1b",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Sprout Tower ไต่ตึกสู้ Trainer ชั้นบนสุดเจอ Rival ปะทะพระเอลเดอร์ ชนะแล้วได้ HM05 Flash",
+      "has_children": true
+    },
+    {
+      "id": "f5b62daf-83ce-4558-8c8d-f843189532d3",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Gym 1 Falkner (Flying) → Zephyr Badge",
+      "has_children": false
+    },
+    {
+      "id": "8dfd83d0-8fea-4a77-9493-c56ece8cab06",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] รับไข่ Togepi",
+      "has_children": true
+    },
+    {
+      "id": "d1ca0cca-09c4-4183-b930-1973033d6fb9",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] Ruins of Alph ดันแผ่นหินให้ตรงร่องตามลาย Kabuto เพื่อเปิดทางลับ ตกลงไปเจอห้อง Unown",
+      "has_children": true
+    },
+    {
+      "id": "79022ea3-033f-4b4c-b38e-1c68b91c24b6",
+      "type": "quote",
+      "text": "มีห้องปริศนารวม 4 ห้อง ห้องที่เหลือปลดล็อกตามจำนวน Badge (Dome / Helix / Old Amber ที่ 3 / 4 / 7)",
+      "has_children": false
+    },
+    {
+      "id": "65e704e1-4583-47e3-9667-28031d03ee62",
+      "type": "heading_2",
+      "text": "Union Cave / Azalea Town",
+      "has_children": false
+    },
+    {
+      "id": "1f12b89c-784d-44a3-bb48-dcb5c24b1143",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Union Cave เดินทะลุถ้ำ ได้เบ็ดตกปลาจาก NPC",
+      "has_children": false
+    },
+    {
+      "id": "f03cb481-9f3a-459e-b976-dda00ee43273",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Slowpoke Well ปะทะ Team Rocket 3 คน ช่วย Slowpoke",
+      "has_children": true
+    },
+    {
+      "id": "3ac9a6cf-2b35-4805-881a-d6b97463ca4c",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Gym 2 Bugsy (Bug) → Hive Badge",
+      "has_children": false
+    },
+    {
+      "id": "9f7ddf3a-6c0c-4c5f-a923-fed119c93b4e",
+      "type": "bulleted_list_item",
+      "text": "[Legacy ต่าง] Bugsy ยังใช้ Scyther เป็นตัวหลัก แต่ Metapod/Kakuna ถูกเปลี่ยนเป็น Pineco/Ledian",
+      "has_children": false
+    },
+    {
+      "id": "17c45dfa-4d67-4c76-b3de-9b4b5cb16340",
+      "type": "heading_2",
+      "text": "Ilex Forest / Goldenrod City",
+      "has_children": false
+    },
+    {
+      "id": "55e5ff72-0214-4112-8a9c-1c8e18ed2a67",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] ไล่ต้อนนก Farfetch'd กลับไปหาเจ้าของ คุยจากฝั่งตรงข้ามทิศที่อยากให้มันเดิน ต้อนเป็นวงจนติดมุม → ได้ HM01 Cut",
+      "has_children": true
+    },
+    {
+      "id": "8fbc2641-aa5e-4dc1-892b-161ed2a8d833",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Charcoal (เสริมท่า Fire) กลับไปคุยลูกมือที่บ้าน Charcoal Kiln ใน Azalea Town อีกครั้งหลังได้ Cut",
+      "has_children": true
+    },
+    {
+      "id": "17c45dfa-4d67-4c76-b3de-9b4b5cb16340",
+      "type": "heading_2",
+      "text": "Ilex Forest / Goldenrod City",
+      "has_children": false
+    },
+    {
+      "id": "55e5ff72-0214-4112-8a9c-1c8e18ed2a67",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] ไล่ต้อนนก Farfetch'd กลับไปหาเจ้าของ คุยจากฝั่งตรงข้ามทิศที่อยากให้มันเดิน ต้อนเป็นวงจนติดมุม → ได้ HM01 Cut",
+      "has_children": true
+    },
+    {
+      "id": "8fbc2641-aa5e-4dc1-892b-161ed2a8d833",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Charcoal (เสริมท่า Fire) กลับไปคุยลูกมือที่บ้าน Charcoal Kiln ใน Azalea Town อีกครั้งหลังได้ Cut",
+      "has_children": true
+    },
+    {
+      "id": "640259e0-7f67-4634-ad1b-aa8a11450016",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Goldenrod: รับจักรยานฟรี — ร้านอยู่ในซอยฝั่งตะวันออก ต้องเดินอ้อมหลัง Department Store ลงมา",
+      "has_children": false
+    },
+    {
+      "id": "cce9cb68-8394-41d5-aec2-790cfa7d822c",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] Radio Card quiz ตอบพนักงานเคาน์เตอร์ขวาสุดชั้น 1 ให้ถูก 5 ข้อ (ต้นฉบับ: ใช่, ใช่, ไม่ใช่, ใช่, ไม่ใช่)",
+      "has_children": false
+    },
+    {
+      "id": "915a26cf-3253-4eda-bc2a-b0e213ec9347",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Gym 3 Whitney (Normal, Miltank) → Plain Badge",
+      "has_children": false
+    },
+    {
+      "id": "f907ec23-e77d-4de6-8ce1-f5e44582df44",
+      "type": "heading_2",
+      "text": "Route 36 — Sudowoodo และ Squirtbottle",
+      "has_children": false
+    },
+    {
+      "id": "7af5d518-ea8a-413b-af4c-911a546e8021",
+      "type": "numbered_list_item",
+      "text": "ต้องชนะ Whitney ได้ Plain Badge ก่อน",
+      "has_children": false
+    },
+    {
+      "id": "52dab2cb-6c58-450f-a98b-a1fbe12e1e85",
+      "type": "numbered_list_item",
+      "text": "คุยกับเด็กหญิง (น้องสาวช่างดอกไม้) ที่ยืนข้างต้นไม้ประหลาด เธอจะเดินกลับร้านทันที",
+      "has_children": true
+    },
+    {
+      "id": "23ce4046-fd0a-4230-a4ad-7eb66c42488d",
+      "type": "numbered_list_item",
+      "text": "กลับไป Flower Shop คุยกับพี่สาวและน้องสาวทั้งคู่ → ได้ Squirtbottle",
+      "has_children": true
+    },
+    {
+      "id": "149266a5-a03b-4d08-a619-060bad46367b",
+      "type": "numbered_list_item",
+      "text": "กลับมา Route 36 ใช้ Squirtbottle รดต้นไม้ → กลายเป็น Sudowoodo ตัวเดียวในเกม ระวังน็อกตาย",
+      "has_children": false
+    },
+    {
+      "id": "c29393c7-a0b6-47d5-bf74-17d81a35df47",
+      "type": "numbered_list_item",
+      "text": "รับ TM08 Rock Smash จากชายร่างบึกบึนใส่เสื้อสีน้ำเงิน",
+      "has_children": true
+    },
+    {
+      "id": "20cfa7fe-8c23-47d5-9e61-d724e249f76f",
+      "type": "heading_2",
+      "text": "National Park / Route 37 / Ecruteak City",
+      "has_children": false
+    },
+    {
+      "id": "8a8fe9b0-b397-43dd-af8e-caf766f31004",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Bug Catching Contest (อังคาร/พฤหัส/เสาร์) รับ Park Ball 20 ลูก เวลา 20 นาที อันดับ 1 ได้ Sun Stone",
+      "has_children": true
+    },
+    {
+      "id": "66bec7f1-7acc-425e-b25e-89c0bde1c6f7",
+      "type": "heading_3",
+      "text": "Bug Catching Contest — กติกาและสูตรคะแนน",
+      "has_children": false
+    },
+    {
+      "id": "c1cf82f6-7035-4532-a193-51dd34c37189",
+      "type": "callout",
+      "text": "จัดทุก วันอังคาร / พฤหัสบดี / เสาร์ เข้าร่วมฟรี ไม่มีค่าธรรมเนียม วันละ 1 ครั้ง",
+      "has_children": true
+    },
+    {
+      "id": "39931e13-9747-4b90-ad1b-1ad4f42863a3",
+      "type": "paragraph",
+      "text": "เงื่อนไขระหว่างแข่ง:",
+      "has_children": false
+    },
+    {
+      "id": "1c6a2667-6bea-42ca-8e5d-801f29786862",
+      "type": "bulleted_list_item",
+      "text": "ได้ Park Ball 20 ลูก มีเวลา 20 นาที",
+      "has_children": false
+    },
+    {
+      "id": "b532d1b0-f510-43b8-87e1-74314e5ca1d3",
+      "type": "bulleted_list_item",
+      "text": "ใช้โปเกมอนจากทีมได้แค่ตัวเดียว ที่เหลือเจ้าหน้าที่เก็บไว้จนจบ — ระบบหยิบ ตัวช่องแรกสุด ไปให้ ต้องสลับก่อนเข้า",
+      "has_children": false
+    },
+    {
+      "id": "27e1186b-75b9-40b0-b0dd-cb4189df3e61",
+      "type": "bulleted_list_item",
+      "text": "เก็บบัคติดตัวได้ ทีละ 1 ตัว จับตัวใหม่ได้จะถามว่าจะเปลี่ยนไหม",
+      "has_children": false
+    },
+    {
+      "id": "e73f06d5-4e27-4ede-b25b-1993662d9e5b",
+      "type": "bulleted_list_item",
+      "text": "จบเมื่อ: ครบ 20 นาที / Park Ball หมด / โปเกมอนสลบ / หรือเดินไปทางออกแล้วเลือกออกเอง",
+      "has_children": false
+    },
+    {
+      "id": "ddcb264b-20e9-4c8e-a17a-bc27f02987de",
+      "type": "bulleted_list_item",
+      "text": "ตัดสินที่ประตูฝั่งตะวันออก (ฝั่ง Route 36)",
+      "has_children": false
+    },
+    {
+      "id": "1baaecbd-6f63-4c00-8e47-234c2339d633",
+      "type": "paragraph",
+      "text": "รางวัล:",
+      "has_children": false
+    },
+    {
+      "id": "d0616573-d697-4b67-b563-2c5f8f640b46",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "8994911e-5852-46af-8d9f-501fc7b156c0",
+      "type": "paragraph",
+      "text": "สูตรคะแนน:",
+      "has_children": false
+    },
+    {
+      "id": "8b2381fb-0f14-4378-911d-96b6b0ad7c06",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "fe46d875-1f12-4cb2-b42f-4df553214888",
+      "type": "callout",
+      "text": "กลยุทธ์จากสูตรนี้",
+      "has_children": true
+    },
+    {
+      "id": "0f2baa4c-2093-4834-8f8f-a33a70c14ce0",
+      "type": "callout",
+      "text": "จับ Scyther หรือ Pinsir ได้ = โอกาสชนะสูงสุด แต่ไม่การันตี — ดูหัวข้อ \"ตัวอันตรายตัวจริงคือ Cooltrainer Nick\" ด้านล่าง",
+      "has_children": false
+    },
+    {
+      "id": "2b590cf8-dc4c-4fb3-99b3-9141dcb8db94",
+      "type": "heading_3",
+      "text": "วิธีจับ Scyther / Pinsir ให้ติด",
+      "has_children": false
+    },
+    {
+      "id": "e9e49a7f-4cd8-4fcd-8d1f-de8ae5bc51eb",
+      "type": "callout",
+      "text": "แก้จากฉบับก่อนหน้าที่เคยเขียนว่า \"อย่าทำ HP ลด\" — ตัวเลขจริงบอกกลับกัน",
+      "has_children": true
+    },
+    {
+      "id": "cf8c449c-a6b3-48ec-a4b7-c85ea7068c3c",
+      "type": "paragraph",
+      "text": "โอกาสจับ Scyther/Pinsir ระดับ Lv.14 ด้วย Park Ball ต่อการขว้าง 1 ลูก:",
+      "has_children": false
+    },
+    {
+      "id": "e2510526-d097-4810-9673-a7e2ffa190e5",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "a5171cba-8238-4eae-a053-8157ff0bcf05",
+      "type": "paragraph",
+      "text": "ใน Gen 2 การทำให้หลับช่วยน้อยกว่าภาครุ่นหลังมาก — Sleep Powder เพิ่มให้แค่ ~4% แต่การลด HP เพิ่มให้ถึง ~17% เกือบสามเท่า",
+      "has_children": false
+    },
+    {
+      "id": "3bf661c5-4b22-423a-ad0d-539cefa57422",
+      "type": "paragraph",
+      "text": "คิดเป็นคะแนนที่เสีย: Scyther Lv.14 มี HP ราว 40 → เต็มได้ 40÷8 = 5 แต้ม / เหลือ 1 HP ได้ 0 แต้ม — เสียแค่ 5 แต้มจากสามร้",
+      "has_children": false
+    },
+    {
+      "id": "2d3efa10-69f2-4b7b-9f93-14eedb678f78",
+      "type": "callout",
+      "text": "แก้จากฉบับก่อนหน้า — จับ Scyther/Pinsir ได้ ไม่ได้ชนะแน่นอน",
+      "has_children": true
+    },
+    {
+      "id": "61b3f2ca-6b86-4f7f-be31-a545ab9dc4cd",
+      "type": "heading_3",
+      "text": "ตัวอันตรายตัวจริงคือ Cooltrainer Nick",
+      "has_children": false
+    },
+    {
+      "id": "1a032dd3-36d2-4690-b86e-d1527cf53374",
+      "type": "callout",
+      "text": "Nick คือคู่แข่งที่คะแนนสูงสุดในเกม ถ้าเขาอยู่ในสนาม เขามักชนะ",
+      "has_children": true
+    },
+    {
+      "id": "20dab77d-73fc-4e92-b995-42893f5bc36a",
+      "type": "paragraph",
+      "text": "คะแนนของ NPC ที่อันตราย (สูงสุดของแต่ละคน):",
+      "has_children": false
+    },
+    {
+      "id": "9a5aa78f-55c8-4525-92bd-3f78ee2078e4",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "0b6a7c8a-dc50-4a77-96d3-8dffcac0b8c6",
+      "type": "quote",
+      "text": "Butterfree ของ NPC ทำคะแนนได้ถึง 349 — นี่คือเหตุที่ Scyther ที่ DV ไม่ดีอาจแพ้ Butterfree ได้",
+      "has_children": false
+    },
+    {
+      "id": "4b95cdb3-101b-4bce-8ee7-ad33d3c8d8a9",
+      "type": "paragraph",
+      "text": "ช่วงคะแนนของเราเอง:",
+      "has_children": false
+    },
+    {
+      "id": "eac37507-f913-4deb-9484-45d876a1e075",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "1e39c128-ba31-4cd1-9a42-9cdf031e0521",
+      "type": "quote",
+      "text": "ช่วงของ Scyther กว้างถึง 88 แต้ม — DV คือตัวตัดสินว่าจะชนะหรือแพ้ โดยเฉพาะ Defense DV ที่ให้ถึง 16 แต้ม",
+      "has_children": false
+    },
+    {
+      "id": "0e5908cc-1038-4ff0-a011-a4528bf70493",
+      "type": "paragraph",
+      "text": "ลำดับที่ควรทำ:",
+      "has_children": false
+    },
+    {
+      "id": "6bca142c-8311-41e8-b45e-9b22bb627fcc",
+      "type": "numbered_list_item",
+      "text": "วิ่งหนีทุกตัวที่ไม่ใช่ Scyther/Pinsir ทันที อย่าเสียเวลากับลูกบอล",
+      "has_children": false
+    },
+    {
+      "id": "c74e26a3-b5a6-4cf0-91b2-d3041a51eeb0",
+      "type": "numbered_list_item",
+      "text": "เจอแล้วตีให้เหลือ HP น้อยที่สุด แล้วค่อยขว้าง (Gen 2 ไม่มี False Swipe ต้องกะเอา)",
+      "has_children": false
+    },
+    {
+      "id": "e6d6a3a7-1564-4e63-a443-d7714000c084",
+      "type": "numbered_list_item",
+      "text": "Sleep Powder ใส่เสริมได้ ได้อีก ~4% ไม่เสียหาย แต่อย่าพึ่งมันอย่างเดียว",
+      "has_children": false
+    },
+    {
+      "id": "2bc20b7b-e3c8-4dc7-98a2-762bef32e144",
+      "type": "numbered_list_item",
+      "text": "กด Save State ก่อนคุยกับ NPC หน้าประตู — แข่งได้วันละครั้ง แต่ save state ทำให้ลองใหม่ได้ไม่จำกัด อย่าลืมเปลี่ยนจังหวะกด",
+      "has_children": false
+    },
+    {
+      "id": "500b6aa3-a574-46e9-a394-23764afff70d",
+      "type": "paragraph",
+      "text": "[Legacy ต่าง] Legacy รื้อ wild encounter ทั้งเกม ตารางบัคที่เจอในสวนอาจไม่เหมือนต้นฉบับ ถ้าไม่เจอ Scyther/Pinsir เลยหลาย",
+      "has_children": false
+    },
+    {
+      "id": "c1e1c181-f735-4009-bf27-a31490833bd1",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Gym 4 Morty (Ghost) → Fog Badge",
+      "has_children": false
+    },
+    {
+      "id": "8db3f02c-d70b-4d90-bac1-03c5ec74053a",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] Burned Tower ลงชั้นใต้ดินเจอ \"หิน\" 3 ก้อนคือ Legendary Beasts หลับอยู่ ปลุกแล้ววิ่งกระจายทั่วจอห์โต้",
+      "has_children": true
+    },
+    {
+      "id": "bbd75e53-8fc2-4ac3-8546-ae3cadf880b4",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Kimono Girls ท้าสู้ทั้ง 5 คน ชนะครบแล้วคุยกับผู้ชม → ได้ HM03 Surf",
+      "has_children": true
+    },
+    {
+      "id": "481e5354-1442-4e68-ba36-a4e92d27ec8a",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] เจอ Bill ที่ Pokémon Center เมืองนี้ (จุดเริ่มของเควส Eevee)",
+      "has_children": false
+    },
+    {
+      "id": "a5dca697-133c-41ad-978f-140813739a21",
+      "type": "heading_2",
+      "text": "เส้นเรื่อง Suicune และ Eusine",
+      "has_children": false
+    },
+    {
+      "id": "21b1d2d5-5f26-402d-9314-9c9f2d66ba3a",
+      "type": "callout",
+      "text": "Suicune ไม่ใช่โปเกมอนที่เดินหาเจอแล้วจับได้เลย ต้อง \"เห็นตัว\" ตามจุดที่กำหนดให้ครบตามลำดับก่อน แต่ละครั้งมันจะวิ่งหนีทัน",
+      "has_children": false
+    },
+    {
+      "id": "5cf2e266-6849-42eb-8b32-4774185f7315",
+      "type": "table",
+      "text": "",
+      "has_children": true
+    },
+    {
+      "id": "e2ad9431-2b9a-4964-9e1e-ec1510cbc9f3",
+      "type": "paragraph",
+      "text": "Eusine ปรากฏตัวทั้งหมด 4 ครั้ง:",
+      "has_children": false
+    },
+    {
+      "id": "bd211def-9255-46a8-9506-a96e266021a0",
+      "type": "numbered_list_item",
+      "text": "Burned Tower ยืนศึกษาตึกอยู่กับ Morty ยังไม่สู้",
+      "has_children": false
+    },
+    {
+      "id": "afb0586a-dd28-4185-96fa-0d47ed7acdf8",
+      "type": "numbered_list_item",
+      "text": "Cianwood ท้าสู้ เพราะอยากให้ Suicune ยอมรับเขาในฐานะเทรนเนอร์",
+      "has_children": false
+    },
+    {
+      "id": "16d5ac44-f5da-4f16-bf8c-0ffd7c84a8a1",
+      "type": "numbered_list_item",
+      "text": "หลังจับ Suicune ได้ที่ Tin Tower เขาจะย้ายกลับบ้านเกิดที่ Celadon City รออยู่ใน Pokémon Center เพื่อรอให้คุณจับบีสต์ครบท",
+      "has_children": false
+    },
+    {
+      "id": "22a9538a-43dd-41f7-beae-a5841e60152e",
+      "type": "numbered_list_item",
+      "text": "หลังจับครบทั้ง 3 ตัวแล้ว เขาจะกลับไปรอที่ Tin Tower เพื่อรอให้คุณเรียก Ho-oh",
+      "has_children": false
+    },
+    {
+      "id": "03ba1fe9-bcda-4d51-ad7b-cef20c9eac87",
+      "type": "quote",
+      "text": "Clear Bell ที่ใช้ปลดล็อก Tin Tower ได้จากเนื้อเรื่องช่วงเคลียร์ Radio Tower ที่ Goldenrod — ถ้ายังไม่มี พระ 3 องค์จะยืนข",
+      "has_children": false
+    },
+    {
+      "id": "30015b7b-c95c-4e5f-ab2d-a6b9f507ef5f",
+      "type": "paragraph",
+      "text": "[Legacy ต่าง] Legacy ปรับให้ Raikou กับ Entei เริ่มวิ่งหลังจากไปยุ่งกับพวกมันที่ Burned Tower และ ตัดท่า Roar ออก — แปลว",
+      "has_children": false
+    },
+    {
+      "id": "7f354a5d-25ac-4b9a-82f9-79b14a0a78a3",
+      "type": "heading_2",
+      "text": "Route 38-39 / Olivine City",
+      "has_children": false
+    },
+    {
+      "id": "ca178470-bfe8-4e88-af00-aa4361750a32",
+      "type": "bulleted_list_item",
+      "text": "[สำคัญ] MooMoo Farm ให้ Berry รวม 7 ลูกกับ Miltank ป่วยชื่อ Moomoo ในโรงนา → หายป่วย → ได้ TM13 Snore และปลดล็อกซื้อ Moo",
+      "has_children": true
+    },
+    {
+      "id": "f0342d22-9814-4fbc-a016-77dacdc2d716",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Olivine: Jasmine ไม่อยู่ในยิม ต้องไปเอา SecretPotion จาก Cianwood ก่อน — Rival มาบอกตรงหน้าประตูยิมกลางเมือง",
+      "has_children": false
+    },
+    {
+      "id": "09be4945-413e-419c-a8e0-0f5010eed159",
+      "type": "bulleted_list_item",
+      "text": "[Legacy ต่าง] Legacy ใส่ระบบ level scaling ให้ช่วงที่เล่นแบบไม่เป็นเส้นตรง: ทีมและ level ของ Chuck, Jasmine, Pryce ปรับต",
+      "has_children": false
+    },
+    {
+      "id": "bd284bb6-f3f0-4e1c-802e-8bf71d8d6fbb",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Olivine Lighthouse ไต่ 6 ชั้นสู้ Trainer จนถึงห้องโคมไฟบนสุด เจอ Jasmine ดูแล Amphy",
+      "has_children": true
+    },
+    {
+      "id": "fa6d02f4-31aa-4ce6-99fc-23330e4d3bc1",
+      "type": "heading_2",
+      "text": "Battle Tower (Route 40)",
+      "has_children": false
+    },
+    {
+      "id": "5a19c4b8-bb6f-430c-9080-1d647ceb5490",
+      "type": "callout",
+      "text": "มีเฉพาะใน Crystal เท่านั้น ไม่มีใน Gold/Silver — เป็น Battle Tower แห่งแรกของซีรีส์ ไม่มีเนื้อเรื่อง เป็นโหมดวัดฝีมือล้ว",
+      "has_children": true
+    },
+    {
+      "id": "67b15805-58e9-4683-9a41-af28bd5e0fb1",
+      "type": "bulleted_list_item",
+      "text": "ส่ง Pokémon 3 ตัว สู้ Trainer ติดกัน 7 คน ชนะครบได้รางวัลเป็นยาเพิ่มค่าสถิติ (vitamin) ครั้งละ 5 ขวด",
+      "has_children": false
+    },
+    {
+      "id": "5551a3f1-a9b1-494e-86ce-71b962e8432a",
+      "type": "bulleted_list_item",
+      "text": "เข้าได้ตั้งแต่ก่อนจบเกม ไม่ต้องเป็น Champion ก่อน (ต่างจาก Battle Tower รุ่นหลัง)",
+      "has_children": false
+    },
+    {
+      "id": "aae0479c-13a6-472b-8f39-679de14cd74c",
+      "type": "paragraph",
+      "text": "กติกาที่ต้องรู้ก่อนเข้า:",
+      "has_children": false
+    },
+    {
+      "id": "005d2088-416d-42b5-a1e2-3d2a6524bdc4",
+      "type": "bulleted_list_item",
+      "text": "เลือก tier ระดับ level ทีละ 10 — ก่อนเข้า Hall of Fame เลือกได้แค่ 10 ถึง 40 หลังจบเกมถึงจะเลือก 50 ถึง 100 ได้",
+      "has_children": false
+    },
+    {
+      "id": "e43739a3-2721-4ebc-9360-d59f88e0f413",
+      "type": "bulleted_list_item",
+      "text": "Pokémon ของเราต้อง level ไม่เกิน tier ที่เลือก แต่ไม่ถูกปรับขึ้นให้ ส่วนฝ่ายตรงข้ามอยู่ที่ level ของ tier เป๊ะทุกตัว — เ",
+      "has_children": false
+    },
+    {
+      "id": "cf71166b-6621-4460-ab52-9a281005a09f",
+      "type": "bulleted_list_item",
+      "text": "ห้าม Pokémon ซ้ำสายพันธุ์ ห้ามถือไอเทมซ้ำกัน ห้ามใส่ไข่",
+      "has_children": false
+    },
+    {
+      "id": "a902daba-61f9-46a5-8bb2-eb24acb2fde5",
+      "type": "bulleted_list_item",
+      "text": "ห้ามใช้ไอเทมระหว่างสู้ทั้งหมด และไม่ได้รับ EXP เลย",
+      "has_children": false
+    },
+    {
+      "id": "1941e57e-c68c-4d02-b986-7d0daedb67d3",
+      "type": "bulleted_list_item",
+      "text": "Legendary ลงแข่งได้ แต่ Mewtwo, Mew, Lugia, Ho-Oh, Celebi ต้องเลือก tier 70 ขึ้นไปเท่านั้น",
+      "has_children": false
+    },
+    {
+      "id": "59d6c9e3-fa3a-4b4a-b1f2-10e52f3017cf",
+      "type": "paragraph",
+      "text": "[Legacy ต่าง] Legacy เพิ่มของให้: มีทีมของ playtester ให้ท้าสู้ พร้อมรางวัลที่อัปเกรดจากเดิม",
+      "has_children": false
+    },
+    {
+      "id": "88e15d70-b6f4-4377-9570-cd9b5606694c",
+      "type": "quote",
+      "text": "เหตุผลที่บทสรุปไทยเก่าๆ มักไม่มีส่วนนี้: เวอร์ชันญี่ปุ่นต้องต่ออุปกรณ์ Mobile System GB ถึงจะเปิดประตูได้ มีแต่ฉบับสากลท",
+      "has_children": false
+    },
+    {
+      "id": "4fe6b12e-bab0-4390-88a3-2f9639461ac8",
+      "type": "heading_2",
+      "text": "Route 40-41 → Cianwood City",
+      "has_children": false
+    },
+    {
+      "id": "46042eeb-ecdc-4c25-9555-16099ac07d43",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] เดินทางไป Cianwood ด้วยการ Surf ออกจากท่าฝั่งใต้ของ Olivine ผ่าน Route 40 ต่อด้วย Route 41 — ต้องมี HM03 Surf (ไ",
+      "has_children": false
+    },
+    {
+      "id": "5df141b1-1458-405a-b949-d4a392a14267",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] ระหว่างทาง Route 41 คือ Whirl Islands แวะได้ถ้ามี Whirlpool แล้ว",
+      "has_children": false
+    },
+    {
+      "id": "c5d65a1e-e655-4dd6-821f-01708ccbed74",
+      "type": "bulleted_list_item",
+      "text": "[สำคัญ] SecretPotion รับจากเภสัชกรชายใส่แว่นที่นั่งอยู่ที่โต๊ะ",
+      "has_children": true
+    },
+    {
+      "id": "f48c5d5f-f499-4e7f-ac20-5ac24f205195",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Gym Chuck (Fighting) → Storm Badge + TM01 DynamicPunch",
+      "has_children": false
+    },
+    {
+      "id": "b91a3269-a144-40a2-9032-1c31370cb8cc",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] ในยิมมีปริศนาดันหินด้วย Strength: ดันหินสองข้างขึ้น 1 ช่อง แล้วดันหินกลางไปซ้ายหรือขวา 1 ช่อง",
+      "has_children": false
+    },
+    {
+      "id": "739a24af-8334-47aa-9796-3104fc2b4012",
+      "type": "bulleted_list_item",
+      "text": "[สำคัญ] HM02 Fly รับจากภรรยาของ Chuck คนละคนกับเภสัชกร",
+      "has_children": true
+    },
+    {
+      "id": "19cc3bd1-611c-409e-bf4a-2e579eaf32f8",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Shuckle \"Shuckie\" ชายชื่อ Mania ให้ฝากเลี้ยง ถ้าเลี้ยงจน Friendship ถึง 150 เขาจะยกให้เลย",
+      "has_children": true
+    },
+    {
+      "id": "be13aa28-b031-4489-98cc-5b3b8ae2c62b",
+      "type": "bulleted_list_item",
+      "text": "[เสริม] Poké Seer หญิงชราบอกได้ว่าจับ Pokémon ตัวนั้นที่ไหน เวลาไหน Level เท่าไหร่ และดูค่า Friendship ได้",
+      "has_children": true
+    },
+    {
+      "id": "aba69e1b-8f6f-4d70-957a-bf4426d2446e",
+      "type": "bulleted_list_item",
+      "text": "[สำคัญ] เหตุการณ์ Suicune ครั้งที่ 2 เดินขึ้นไปทางเหนือของบ้าน Poké Seer แล้ว Suicune จะโผล่มาและวิ่งหนี จากนั้น Eusine ",
+      "has_children": false
+    },
+    {
+      "id": "34077171-c93c-403e-b42a-a6d6b95dfdd6",
+      "type": "heading_2",
+      "text": "กลับ Olivine / Route 42 / Mt. Mortar",
+      "has_children": false
+    },
+    {
+      "id": "271b8c27-9c8e-4db0-becd-e9925d0b4731",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] นำ SecretPotion ให้ Jasmine ชั้นบนสุดประภาคาร → Amphy หาย → Jasmine กลับยิม → Mineral Badge + TM23 Iron Tail",
+      "has_children": false
+    },
+    {
+      "id": "5a67378c-3216-445f-89f5-8da0566ddcda",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] Whirl Islands (ทางเลือก) ทำลายวังน้ำวนด้วย Whirlpool เพื่อเปิดทางลงเกาะใน จุดพบ Lugia",
+      "has_children": false
+    },
+    {
+      "id": "69456986-efa4-4bec-8f06-7d3afe379309",
+      "type": "bulleted_list_item",
+      "text": "[สำคัญ] Kiyo (Karate King) ชนะแล้วได้ Tyrogue Lv.10 ฟรี ต้องมีช่องปาร์ตี้เหลืออย่างน้อย 1 ช่องก่อนคุย",
+      "has_children": true
+    },
+    {
+      "id": "346eaade-700f-4b0e-8241-a8865db4c5ab",
+      "type": "quote",
+      "text": "Tyrogue evolve ที่ Lv.20 ตามค่า Attack เทียบ Defense: Atk มากกว่า Def เป็น Hitmonlee · Def มากกว่า Atk เป็น Hitmonchan ·",
+      "has_children": false
+    },
+    {
+      "id": "58fb04ca-4349-408a-9efd-ee328b7541bb",
+      "type": "heading_2",
+      "text": "Route 43 / Lake of Rage / Mahogany Town",
+      "has_children": false
+    },
+    {
+      "id": "19e8be86-1a21-4a9b-b46b-3a3a93eb0696",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] Lake of Rage เจอ Red Gyarados กลางทะเลสาบ",
+      "has_children": false
+    },
+    {
+      "id": "b7cf6075-ab49-40fd-9d78-d7b02937dd0a",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] คุยกับชายปริศนาริมฝั่ง (Lance) แล้วเขาหายตัวไป → กลับ Mahogany เข้าร้านค้าเพื่อเปิดฐานลับ Rocket",
+      "has_children": true
+    },
+    {
+      "id": "c322bb00-fe1d-41bc-a5f8-079ec5215ed8",
+      "type": "bulleted_list_item",
+      "text": "[ปริศนา] Rocket Hideout หา Password จาก NPC ในห้องคอมพิวเตอร์ กดสวิตช์ตามกำแพงให้ครบ และใช้กุญแจไขประตูที่ล็อก",
+      "has_children": false
+    },
+    {
+      "id": "4dc679d8-f253-4c8f-904f-1d83320048dd",
+      "type": "bulleted_list_item",
+      "text": "[EVENT] ปราบหัวหน้า Rocket → ปลดปล่อยโปเกมอนทดลอง → ได้ HM06 Whirlpool",
+      "has_children": false
+    }
+  ]
+}
