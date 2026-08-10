@@ -1,0 +1,47 @@
+---
+description: Pokemon Crystal Legacy — Q&A context + Notion hub for updates/discussion
+alwaysApply: true
+---
+
+# Pokémon Crystal Legacy
+
+ROM hack based on [pret/pokecrystal](https://github.com/pret/pokecrystal). Goal: polish/balance Crystal while keeping Gen 2 feel. Assembly + RGBDS toolchain.
+
+## Primary mode: ask / explain
+
+Default work here = **answer questions** about gameplay, Legacy vs vanilla, maps, trainers, data, and code — not silent bulk refactors.
+
+1. Prefer **read + explain** from repo + Notion over inventing facts.
+2. When unsure Legacy vs vanilla Crystal: check source (`data/`, `maps/`, `engine/`) or Notion tags like `[Legacy ต่าง]`.
+3. Cite files with paths/line ranges when claiming code behavior.
+4. Do **not** commit, push, or open PRs unless user asks.
+
+## Notion hub (updates + discussion)
+
+Personal walkthrough / notes / discussion live on Notion — treat as the **living doc** for play notes and decisions:
+
+- URL: https://app.notion.com/p/eji4h/Pokemon-3b7da311a58e80c2b287de7ce0dc63fd
+- Page ID: `3b7da311-a58e-80c2-b287-de7ce0dc63fd`
+- MCP: `user-Notion Ej!4h (API token)`
+
+| User intent | Agent action |
+|---|---|
+| Ask about story / map / QoL / Legacy diffs | Read Notion blocks first; cross-check repo if needed |
+| "อัปเดต Notion" / note a finding | Append or edit Notion via MCP (do not invent structure) |
+| Discuss strategy / next steps | Prefer writing summary or options **into Notion** when user wants a durable record |
+
+Page covers: Johto/Kanto route order, daily services, story walkthrough, labels (`[EVENT]`, `[ปริศนา]`, `[เสริม]`, `[สำคัญ]`, `[Legacy ต่าง]`).
+
+## Repo orientation
+
+| Need | Where |
+|---|---|
+| Setup / build | `INSTALL.md` (RGBDS **0.5.2**) |
+| FAQ / pret docs | `FAQ.md`, `docs/` |
+| Style | `STYLE.md` |
+| Feature overview | README + [Google Doc](https://docs.google.com/document/d/1Zku4s049Sri266zr4BhF-riqecOOHjytfZPbQULmcYk) |
+| Code explore | `graphify query/path/explain` before broad Grep/Read |
+
+## Code edits (when asked)
+
+Keep diffs minimal. Match pret/pokecrystal + this repo's asm style. After code changes: `graphify update .`
