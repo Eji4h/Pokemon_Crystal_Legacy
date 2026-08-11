@@ -1,0 +1,326 @@
+[
+  {
+    "id": "3b8da311-a58e-81fa-90af-d33786b231a1",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Sprout Tower ไต่ตึก สู้ Sage Li ได้ HM05 Flash ได้ก่อนหรือหลังยิมก็ได้ — แต่ใช้ Flash นอกแบทเทิลต้องมี Zephyr Badge",
+    "plain": "[EVENT] Sprout Tower ไต่ตึก สู้ Sage Li ได้ HM05 Flash ได้ก่อนหรือหลังยิมก็ได้ — แต่ใช้ Fl"
+  },
+  {
+    "id": "3b8da311-a58e-81db-bd99-dd08d89ecc90",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Gym 1 Falkner (Flying) → Zephyr Badge + TM31 Mud-Slap",
+    "plain": "[EVENT] Gym 1 Falkner (Flying) → Zephyr Badge + TM31 Mud-Slap"
+  },
+  {
+    "id": "3b9da311-a58e-81de-aa22-fbb626331090",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[Legacy ต่าง]",
+        "color": "red"
+      }
+    ],
+    "body": " Falkner ใช้ Pidgey Lv.8 + Noctowl Lv.10 (Berry) — ไม่ใช่ Pidgeotto ของต้นฉบับ (data/trainers/parties.asm)",
+    "plain": "[Legacy ต่าง] Falkner ใช้ Pidgey Lv.8 + Noctowl Lv.10 (Berry) — ไม่ใช่ Pidgeotto ของต้นฉบั"
+  },
+  {
+    "id": "3b8da311-a58e-8114-81dc-c24073f42c96",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " รับไข่ Togepi จาก Elm's Aide ที่ Violet Pokémon Center (หลังชนะ Falkner / Elm โทรมา) — DV กำหนดตอนรับ",
+    "plain": "[EVENT] รับไข่ Togepi จาก Elm's Aide ที่ Violet Pokémon Center (หลังชนะ Falkner / Elm โทรม"
+  },
+  {
+    "id": "3b8da311-a58e-8135-adf6-e3f851ca8d68",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Union Cave เดินทะลุถ้ำไป Azalea — Old Rod ไม่ได้อยู่ในถ้ำ รับจากนักตกปลาใน Route 32 Pokémon Center (maps/Route32Pokecenter1F.asm)",
+    "plain": "[EVENT] Union Cave เดินทะลุถ้ำไป Azalea — Old Rod ไม่ได้อยู่ในถ้ำ รับจากนักตกปลาใน Route 3"
+  },
+  {
+    "id": "3b8da311-a58e-81c6-b5fe-ce3af69c4941",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Gym 2 Bugsy (Bug) → Hive Badge + TM49 Fury Cutter",
+    "plain": "[EVENT] Gym 2 Bugsy (Bug) → Hive Badge + TM49 Fury Cutter"
+  },
+  {
+    "id": "3b8da311-a58e-81a5-984a-f3526010173b",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[Legacy ต่าง]",
+        "color": "red"
+      }
+    ],
+    "body": " Bugsy: Pineco Lv.15 / Ledian Lv.15 / Scyther Lv.16 (Berry Juice) — แทน Metapod/Kakuna ของต้นฉบับ (data/trainers/parties.asm)",
+    "plain": "[Legacy ต่าง] Bugsy: Pineco Lv.15 / Ledian Lv.15 / Scyther Lv.16 (Berry Juice) — แทน Metap"
+  },
+  {
+    "id": "3b8da311-a58e-8129-a69a-e06812cca81c",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[ปริศนา]",
+        "color": "orange"
+      }
+    ],
+    "body": " ไล่ต้อน Farfetch'd กลับเจ้าของใน Ilex → ได้ HM01 Cut — ลำดับถูก: เคลียร์ Slowpoke Well → ได้ Cut → Bugsy (Hive) → ค่อยใช้ Cut ไป Goldenrod",
+    "plain": "[ปริศนา] ไล่ต้อน Farfetch'd กลับเจ้าของใน Ilex → ได้ HM01 Cut — ลำดับถูก: เคลียร์ Slowpoke"
+  },
+  {
+    "id": "3b8da311-a58e-8164-a602-f9a7f4f619a6",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Gym 3 Whitney (Normal) → Plain Badge + TM45 Attract — [Legacy ต่าง] ทีม Clefairy / Teddiursa / Miltank (MiracleBerry) ไม่ใช่แค่ Clefairy+Miltank",
+    "plain": "[EVENT] Gym 3 Whitney (Normal) → Plain Badge + TM45 Attract — [Legacy ต่าง] ทีม Clefairy /"
+  },
+  {
+    "id": "3b8da311-a58e-81cf-8c96-d18865027165",
+    "type": "paragraph",
+    "leading": [
+      {
+        "tag": "[Legacy ต่าง]",
+        "color": "red"
+      }
+    ],
+    "body": " Legacy รื้อ wild encounter ทั้งเกม ตัวอย่าง: National Park มี Scyther ในหญ้า (data/wild/johto_grass.asm) ส่วน Bug Contest ยังมี Scyther/Pinsir ที่ 5% (data/wild/bug_contest_mons.asm) อย่าเทียบตาราง vanilla โดยไม่อ่านไฟล์ wild ของ repo",
+    "plain": "[Legacy ต่าง] Legacy รื้อ wild encounter ทั้งเกม ตัวอย่าง: National Park มี Scyther ในหญ้า"
+  },
+  {
+    "id": "3b8da311-a58e-817b-8007-d2939a931b59",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Gym 4 Morty (Ghost) → Fog Badge + TM30 Shadow Ball — [Legacy ต่าง] ทีม Haunter / Stantler / Misdreavus / Gengar",
+    "plain": "[EVENT] Gym 4 Morty (Ghost) → Fog Badge + TM30 Shadow Ball — [Legacy ต่าง] ทีม Haunter / S"
+  },
+  {
+    "id": "3b9da311-a58e-810d-beed-c2b90a930f9c",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[สำคัญ]",
+        "color": "brown"
+      }
+    ],
+    "body": " ยิม Morty ปิดจนกว่าจะปลุก beasts ที่ Burned Tower (InitRoamMons + เปิดยิม) — Fog Badge เข้า Tin Tower ได้; Clear Bell / เหตุการณ์ใหญ่หลัง Radio Tower",
+    "plain": "[สำคัญ] ยิม Morty ปิดจนกว่าจะปลุก beasts ที่ Burned Tower (InitRoamMons + เปิดยิม) — Fog B"
+  },
+  {
+    "id": "3b8da311-a58e-810a-8881-dd1c3392f812",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[เสริม]",
+        "color": "green"
+      }
+    ],
+    "body": " Kimono Girls ท้าสู้ทั้ง 5 คน → ได้ HM03 Surf (รับ HM ได้ก่อน Morty ได้ แต่ใช้นอกแบทเทิลต้องมี Fog Badge)",
+    "plain": "[เสริม] Kimono Girls ท้าสู้ทั้ง 5 คน → ได้ HM03 Surf (รับ HM ได้ก่อน Morty ได้ แต่ใช้นอกแบ"
+  },
+  {
+    "id": "3b8da311-a58e-8191-a0e7-e13f796f8415",
+    "type": "paragraph",
+    "leading": [
+      {
+        "tag": "[Legacy ต่าง]",
+        "color": "red"
+      }
+    ],
+    "body": " Raikou/Entei เริ่ม roam หลัง Burned Tower (InitRoamMons) และตัด Roar ออกจาก level-up ใน data/pokemon/evos_attacks.asm เลยไม่ Roar ไล่ทีม (ยังเรียน TM05 ได้) แต่ยังหนีทุกเทิร์นแรก (AlwaysFleeMons / flee_mons.asm)",
+    "plain": "[Legacy ต่าง] Raikou/Entei เริ่ม roam หลัง Burned Tower (InitRoamMons) และตัด Roar ออกจาก "
+  },
+  {
+    "id": "3b9da311-a58e-81be-b489-ec625725699c",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[สำคัญ]",
+        "color": "brown"
+      }
+    ],
+    "body": " HM04 Strength รับจากนักกล้ามใน Olivine Cafe (maps/OlivineCafe.asm) ก่อนไปยิม Chuck — ต้องใช้ดันหินในยิม",
+    "plain": "[สำคัญ] HM04 Strength รับจากนักกล้ามใน Olivine Cafe (maps/OlivineCafe.asm) ก่อนไปยิม Chuck"
+  },
+  {
+    "id": "3b8da311-a58e-81a6-a645-ef55f922983a",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[Legacy ต่าง]",
+        "color": "red"
+      }
+    ],
+    "body": " Level scaling: Chuck / Jasmine / Pryce โหลดตาม Badge ก่อนสู้ มี 4=อ่อน 5=กลาง 6=แข็ง (โค้ด Five/Six/Seven Badges) Jasmine ทีม 1 กับ 2 level ชุดเดียวกัน มีแค่ทีม 3 ที่แรงขึ้น ดู maps/CianwoodGym.asm OlivineGym.asm MahoganyGym.asm + data/trainers/parties.asm",
+    "plain": "[Legacy ต่าง] Level scaling: Chuck / Jasmine / Pryce โหลดตาม Badge ก่อนสู้ มี 4=อ่อน 5=กลา"
+  },
+  {
+    "id": "3b8da311-a58e-8105-bc4a-fdd151ab288b",
+    "type": "paragraph",
+    "leading": [
+      {
+        "tag": "[Legacy ต่าง]",
+        "color": "red"
+      }
+    ],
+    "body": " ทีม playtester หลัก (Smith / Craig / Weebra) อยู่ Trainer House ชั้นใต้ดิน Viridian (Kanto) หมุนตามวัน ดู maps/TrainerHouseB1F.asm ไม่ใช่ Route 34/Day Care และไม่ใช่ Battle Tower (BT มีชื่อใน data/battle_tower/classes.asm แยกต่างหาก)",
+    "plain": "[Legacy ต่าง] ทีม playtester หลัก (Smith / Craig / Weebra) อยู่ Trainer House ชั้นใต้ดิน V"
+  },
+  {
+    "id": "3b8da311-a58e-813f-82fe-f59fefcf59c3",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[เสริม]",
+        "color": "green"
+      }
+    ],
+    "body": " Route 41 = Whirl Islands — แวะได้หลังได้ HM Whirlpool จาก Mahogany Rocket (ทริปแรกไป Cianwood ยังไม่มี)",
+    "plain": "[เสริม] Route 41 = Whirl Islands — แวะได้หลังได้ HM Whirlpool จาก Mahogany Rocket (ทริปแรก"
+  },
+  {
+    "id": "3b8da311-a58e-811a-80e0-c8664a6558bd",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Lake of Rage เจอ Red Gyarados กลางทะเลสาบ (wild Lv.30)",
+    "plain": "[EVENT] Lake of Rage เจอ Red Gyarados กลางทะเลสาบ (wild Lv.30)"
+  },
+  {
+    "id": "3b8da311-a58e-81ea-b75e-d9cf9a4615cd",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[ปริศนา]",
+        "color": "orange"
+      }
+    ],
+    "body": " Rocket Hideout (B3F) ต้องได้ password 2 ค่าถึงเปิดประตูห้องบอส — ทั้งคู่มาจาก Grunt บนชั้น B3F คนละมุม ไม่ใช่ห้องเดียว",
+    "plain": "[ปริศนา] Rocket Hideout (B3F) ต้องได้ password 2 ค่าถึงเปิดประตูห้องบอส — ทั้งคู่มาจาก Gru"
+  },
+  {
+    "id": "3b9da311-a58e-81d5-a9dc-dee09416707f",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[สำคัญ]",
+        "color": "brown"
+      }
+    ],
+    "body": " Password 1 — SLOWPOKETAIL: ปราบ Rocket Girl (GruntF5) ในห้องคอมพิวเตอร์ B3F (ยืนหน้าโต๊ะคอม)",
+    "plain": "[สำคัญ] Password 1 — SLOWPOKETAIL: ปราบ Rocket Girl (GruntF5) ในห้องคอมพิวเตอร์ B3F (ยืนหน"
+  },
+  {
+    "id": "3b9da311-a58e-8116-bb34-e55223dc569e",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[สำคัญ]",
+        "color": "brown"
+      }
+    ],
+    "body": " Password 2 — RATICATE TAIL: ปราบ Rocket ชาย (GruntM28) ฝั่งตะวันตกของ B3F ใกล้ไอเท็มบอล Protein/X Special — พูดถึงว่าเจอที่ Slowpoke Well",
+    "plain": "[สำคัญ] Password 2 — RATICATE TAIL: ปราบ Rocket ชาย (GruntM28) ฝั่งตะวันตกของ B3F ใกล้ไอเท"
+  },
+  {
+    "id": "3b8da311-a58e-8183-992a-e969510599ad",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Gym 7 Pryce (Ice) → Glacier Badge + TM16 Icy Wind (level scaling ตาม Badge ก่อนสู้)",
+    "plain": "[EVENT] Gym 7 Pryce (Ice) → Glacier Badge + TM16 Icy Wind (level scaling ตาม Badge ก่อนสู้"
+  },
+  {
+    "id": "3b8da311-a58e-81ee-8e14-e3cc1bbb6057",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[ปริศนา]",
+        "color": "orange"
+      }
+    ],
+    "body": " Basement Key เปิดทางใต้ดิน → Warehouse ได้ Card Key → กลับ Radio Tower ใช้ Card Key ชั้น 3 แล้วเคลียร์หัวหน้าจริง",
+    "plain": "[ปริศนา] Basement Key เปิดทางใต้ดิน → Warehouse ได้ Card Key → กลับ Radio Tower ใช้ Card K"
+  },
+  {
+    "id": "3b8da311-a58e-812f-8706-df85b22c77b4",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Gym 8 Clair (Dragon) → ชนะครั้งแรกแล้วยังไม่ให้ Badge — ต้องไป Dragon's Den → Rising Badge + TM24 DragonBreath",
+    "plain": "[EVENT] Gym 8 Clair (Dragon) → ชนะครั้งแรกแล้วยังไม่ให้ Badge — ต้องไป Dragon's Den → Risi"
+  },
+  {
+    "id": "3b8da311-a58e-8117-bc7e-eaec4f612d81",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[สำคัญ]",
+        "color": "brown"
+      }
+    ],
+    "body": " Gen2 bug: Dragon Fang ใน Den ไม่บูสต์ Dragon — ตัวบูสต์คือ Dragon Scale (+10% Dragon). Fang เก็บได้ตามขอบถ้ำทวนเข็ม แต่ถือแล้วไม่เพิ่มดาเมจ",
+    "plain": "[สำคัญ] Gen2 bug: Dragon Fang ใน Den ไม่บูสต์ Dragon — ตัวบูสต์คือ Dragon Scale (+10% Drag"
+  },
+  {
+    "id": "3b8da311-a58e-819f-892c-d592a1bf53fe",
+    "type": "bulleted_list_item",
+    "leading": [
+      {
+        "tag": "[EVENT]",
+        "color": "blue"
+      }
+    ],
+    "body": " Prof. Elm มอบ Master Ball ที่แล็บหลังได้ Rising Badge (ENGINE_RISINGBADGE) — ไม่ใช่หลังชนะ Champion",
+    "plain": "[EVENT] Prof. Elm มอบ Master Ball ที่แล็บหลังได้ Rising Badge (ENGINE_RISINGBADGE) — ไม่ใช"
+  }
+]

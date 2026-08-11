@@ -1,0 +1,5724 @@
+﻿🐢 Pokémon
+________________
+
+
+
+
+Crystal Legacy 
+
+
+This is a Pokemon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokemon Crystal into a more polished, balanced, and overall engaging Crystal experience. Generation 2 is one of the most beloved sets of games in the franchise. It introduced tons of mechanics to the game that ended up becoming mainstays within the franchise even now. It also had fan favorite Pokemon, a diverse region, deep lore, nonlinearity, and an entire separate region as its postgame which allowed the player to rematch characters from Generation 1. This created an intoxicating and memorable experience that is still remembered by fans today. Unfortunately, it seems that for every good decision Gen 2 saw, there was a mistake made too, and this is why it sees a lot of criticism. Most often, players critique Gen 2 for failing in its representation of its own region’s Pokemon, its inconsistent level curve and a lackluster postgame. Furthermore, terrible learnsets inhibit the vast majority of Pokemon and questionable design choices make diverse party building incredibly difficult. It’s also been criticized for having a poorly written villainous group storyline with no enjoyable payoff. Ultimately, these and many other small features lead to this trio of games feeling incredibly underbaked, much to the dismay of its fans. Feeling as if it could be so much more, TSP (TheSmithPlays) set out to fix this game, and to turn it into the best possible version of itself, while still retaining the iconic Pokemon Crystal feel that fans have come to love. 
+
+
+Fixes and/or adjustments in this rom hack will include the following: moves, learnsets for Pokemon, wild Pokemon locations, the Team Rocket storyline, the rival’s team & their storyline, teams on both normal trainers, Gym Leaders, Elite Four, and other bosses. In addition it comes with many quality of life features that weren’t possible or weren’t considered when the games first came out.
+
+
+Huge thanks to TSP for leading the project, JaaShooUhh the admin of the discord server during development, Craig the programmer helping Smith (TSP), Weebra the Editor for SmithPlays Pokemon, The mod team Regi, Aero, Daily, Zach, and the Testers for the game, Tiberius, Disq, Sable, Niftimo, Tavros, Karlos, Reader Dragon, Isona, Obelisk, BriceMCK, and Half1sch. Most of all Thanks to all of the fans who are supporting the project through the video series, the discord, and youtube community.
+
+
+We would also like to credit & thank Katt, Chamber, Soloo993, Blue Emerald, Lake, Neslug, Tom Wang, Seasick, & Pikachu25 for the several amazing custom sprites used in the hack. Nayru62 for their help involving the Pokedex & Pokemon pages. Rangi42, Idain, ETDV-TheVoid, DamienDoury, aaaaaa123456789, Coco-Bandicoot, MajorAgnostic, KDLPro, Nick-PC, XaeroChill, & NobodySociety for their incredibly helpful tutorials for Pokecrystal. Finally, a massive shoutout to everyone involved in the Pokecrystal Disassembly as this project wouldn’t have even been able to get off the ground without them! More comprehensive credits will be listed at the end of this Google Doc.
+
+
+
+
+
+
+Stat Changes
+
+
+PKMN
+	HP
+	ATK
+	DEF
+	SP.
+ATK
+	SP.
+DEF
+	SPD
+	BST (Base Stat Total)
+	  
+
+Ekans
+	40
+(+5)
+
+
+	65
+(+5)
+	44
+	40
+	54
+	60
+(+5)
+	303 (+15)
+	  
+
+Arbok
+	62
+(+2)
+	95
+(+10)
+	69
+	65
+	79
+	90
+(+10)
+	460 (+22)
+	  
+
+Pikachu
+	35
+	55
+	40
+(+10)
+	50
+	50
+(+10)
+	90
+	320 (+20)
+	  
+
+Clefable
+	95
+	70
+	73
+	95
+(+10)
+	90
+	60
+	483 (+10)
+	  
+
+Vulpix
+	45
+(+7)
+	41
+	45
+(+5)
+	60
+(+10)
+	70
+(+5)
+	75
+(+10)
+	336  (+37)
+	  
+
+Ninetales
+	78
+(+5)
+	71
+(-5)
+	80
+(+5)
+	86
+(+5)
+	100
+	100
+	515 (+10)
+	  
+
+Wigglytuff
+	140
+	70
+	55
+(+10)
+	85
+(+10)
+	55
+(+5)
+	45
+	450 (+25)
+	  
+
+Oddish
+	50
+(+5)
+	50
+	55
+	75
+	65
+	30
+	325 (+5)
+	  
+
+Gloom
+	70
+(+10)
+	65
+	70
+	85
+	75
+	40
+	405 (+10)
+	  
+
+Vileplume
+	90
+(+15)
+	80
+	95
+(+10)
+	100
+	90
+	50
+	505 (+25)
+	  
+
+Venomoth
+	70
+	75
+(+10)
+	60
+	95
+(+5)
+	75
+	100
+(+10)
+	475 (+25)
+	  
+
+Dugtrio
+	35
+	90
+(+10)
+	50
+	50
+	70
+	120
+	415 (+10)
+	  
+
+Ponyta
+	50
+	85
+	55
+	65
+	65
+	100
+(+10)
+	420 (+10)
+	  
+
+Rapidash
+	65
+	100
+	70
+	80
+	80
+	115
+(+10)
+	510 (+10)
+	  
+Dewgong
+	90
+	60
+(-10)
+	80
+	80
+(+10)
+	95
+	70
+	475
+	  
+
+Shellder
+	35
+(+5)
+	65
+	100
+	45
+	25
+	40
+	310 (+5)
+	  
+
+Marowak
+	65
+(+5)
+	80
+	110
+	50
+	80
+	45
+	430 (+5)
+	  
+
+Hitmonlee
+	50
+	120
+	58
+(+5)
+	35
+	110
+	87
+	460 (+5)
+	  
+
+Hitmonchan
+	50
+	105
+	79
+	35
+	110
+	81 
+(+5)
+	460 (+5)
+	  
+
+Weezing
+	75
+(+10)
+	90
+	120
+	85
+	70
+	60
+	500 (+10)
+	  
+
+Lickitung
+	95
+(+5)
+	70
+(+15)
+
+
+	85
+(+10)
+	75
+(+15)
+	85
+(+10)
+	30
+	440 (+55)
+	  
+Magmar
+	75
+(+10)
+	85
+(-10)
+	57
+	100
+	85
+	93
+	495
+	  
+
+Flareon
+	65
+	130
+	60
+	110
+(+15)
+	95
+(-15)
+	65
+	525
+	  
+
+Furret
+	85
+	76
+	64
+	55
+(+10)
+	55
+	90
+	425 (+10)
+	  
+
+Ledian
+	75
+(+20)
+	35
+	50
+	55
+	110
+	85
+	410 (+20)
+	  
+
+Ariados
+	70
+	90
+	70
+	70
+(+10)
+	70
+(+10)
+	80
+(+40)
+	450 (+60)
+	  
+
+Togetic
+	85
+(+30)
+	50
+(+10)
+	85
+	80
+	105
+	40
+	445 (+40)
+	  
+
+Bellossom
+	90
+(+15)
+	80
+	95
+(+10)
+	90
+	100
+	50
+	505 (+25)
+	  
+
+Azumarill
+	100
+	50
+	80
+	70
+(+20)
+	80
+	50
+	430 (+20)
+	  
+
+Sudowoodo
+	80
+(+10)
+	100
+	115
+	30
+	85
+(+20)
+	30
+	440 (+30)
+	  
+
+Yanma
+	75
+(+10)
+	105
+(+40)
+	65
+(+20)
+	65
+(-10)
+	45
+	95
+	450 (+60)
+	  
+
+Aipom
+	70
+(+15)
+	90
+(+20)
+	65
+(+10)
+	40
+	65
+(+10)
+	90
+(+5)
+	420 (+60)
+	  
+
+Quagsire
+	95
+	85
+	85
+	75
+(+10)
+	75
+(+10)
+	35
+	450 (+20)
+	  
+
+Sunflora
+	75
+	75
+	55
+	125
+(+20)
+	85
+	30
+	445 (+20)
+	  
+
+Murkrow
+	70
+(+10)
+	105
+(+20)
+	52
+(+10)
+	76
+(-9)
+	52
+(+10)
+	95
+(+4)
+	450 (+45)
+	  
+
+Misdreavus
+	60
+	60
+	60
+	95
+(+10)
+	95
+(+10)
+	90
+(+5)
+	460 (+25)
+	  
+
+Gligar
+	70
+(+5)
+	85
+(+10)
+	105
+	35
+	65
+	90
+(+5)
+	450 (+20)
+	  
+
+Qwilfish
+	75
+(+10)
+	95
+	85
+(+10)
+	65
+(+10)
+	75
+(+20)
+	85
+	480 (+50)
+	  
+
+Sneasel
+	55
+	95
+	55
+	70
+(+35)
+	75
+	115
+	465 (+35)
+	  
+
+Slugma
+	50
+(+10)
+	70
+(+30)
+	60
+(+20)
+	70
+	60
+(+20)
+	20
+	330 (+80)
+	  
+
+Magcargo
+	60
+(+10)
+	80
+(+30)
+	130
+(+10)
+	90
+(+10)
+	80
+	30
+	470 (+60)
+	  
+
+Swinub
+	80
+(+30)
+	65
+(+15)
+	40
+	65
+(+35)
+	40
+(+10)
+	50
+	340 (+90)
+	  
+
+Piloswine
+	100
+	100
+	80
+	80
+(+20)
+	70
+(+10)
+	50
+	480 (+30)
+	  
+
+Corsola
+	85
+(+30)
+	55
+	95
+(+10)
+	65
+	95
+(+10)
+	35
+	430 (+50)
+	  
+
+Delibird
+	60
+(+15)
+	75
+(+20)
+	55
+(+10)
+	85
+(+20)
+	45
+	80
+(+5)
+	400 (+70)
+	  
+
+Mantine
+	65
+	50
+(+10)
+	70
+	80
+	140
+	70
+	475 (+10)
+	  
+
+Hitmontop
+	50
+	95
+	95
+	35
+	110
+	75
+(+5)
+	460 (+5)
+	  
+
+
+Entei
+	115
+	90
+(-25)
+	85
+	115
+(+25)
+	75
+	100
+	580
+	________________
+  Move Changes
+
+
+MOVE
+	BASE
+POWER
+	
+
+ACCURACY
+	EFFECT
+(Only lists changes)
+	PP
+	Barrage
+  
+
+	20
+(+5)
+	100%
+(+15%)
+	
+
+	20
+	Bind
+  
+
+	15
+	85%
+(+10%)
+	
+
+	20
+	Comet Punch
+  
+
+	25
+(+7)
+	100%
+(+15%)
+	
+
+	25
+(+10 PP)
+	Constrict
+  
+
+	40
+(+30)
+	100%
+	
+
+	35
+	Disable
+  
+
+	
+
+	75% (+20%)
+	
+
+	20
+	Dizzy Punch
+  
+
+	70
+	100%
+	
+
+	20
+(+10 PP)
+	DoubleSlap   
+	20
+(+5)
+	100% (+15%)
+	
+
+	35
+(+25 PP)
+	ExtremeSpeed
+  
+
+	80
+	100%
+	
+
+	10
+(+5 PP)
+	Fury Attack
+  
+
+	18
+	100%
+(+15%)
+	
+
+	20
+	Fury Swipes
+  
+
+	20
+(+2)
+	100%
+(+20%)
+	
+
+	20
+(+5 PP)
+	Glare
+  
+
+	   
+	90%
+(+15%)
+	
+
+	30
+	Hidden Power
+  
+
+	?
+	100%
+(+10%)
+	
+
+	15
+	Mega Kick
+  
+
+	120
+	85%
+(+10%)
+	
+
+	10
+(+5 PP)
+	Milk Drink
+  
+
+	   
+	   
+	
+
+	5
+(-5 PP)
+	Pay Day
+  
+
+	60
+(+20)
+	100%
+	
+
+	20
+	Razor Wind  
+	80
+	95%
+(+20%)
+	
+
+	15
+(+5 PP)
+	Recover
+  
+
+	   
+	   
+	
+
+	5
+(-15 PP)
+	Scratch
+  
+
+	35
+(-5)
+	100%
+	
+
+	35
+	Slam
+  
+
+	80
+	100%
+(+25%)
+	
+
+	20
+	SonicBoom
+  
+
+	   
+	100%
+(+10%)
+	
+
+	20
+	Soft-Boiled
+  
+
+	   
+	   
+	
+
+	5
+(-5 PP)
+	Supersonic
+  
+
+	   
+	70%
+(+15%)
+	
+
+	20
+	Tackle
+  
+
+	35
+	100%
+(+5%)
+	
+
+	35
+	Take Down
+  
+
+	95
+(+5)
+	100%
+(+15%)
+	
+
+	20
+	Tri Attack
+  
+
+	85
+(+5)
+	100%
+	
+
+	15
+	Absorb
+  
+
+	20
+	100%
+	
+
+	25
+(+5 PP)
+	Egg Bomb
+  
+
+	100
+	100%
+(+25%)
+	NOW [GRASS] TYPE.
+	10
+	Giga Drain
+  
+
+	75
+(+15)
+	100%
+	
+
+	15
+(+10 PP)
+	Mega Drain
+  
+
+	40
+	100%
+	
+
+	20
+(+10 PP)
+	Vine Whip
+  
+
+	40
+(+5)
+	100%
+	
+
+	25
+(+15 PP)
+	Petal Dance
+  
+
+	90
+(+20)
+	100%
+	
+
+	20
+(+5 PP)
+	Fire Spin
+  
+
+	35
+(+20)
+	100%
+(+30)
+	
+
+	15
+	Flame Wheel
+  
+
+	65
+(+5)
+	100%
+	
+
+	25
+	Sacred Fire
+  
+
+	100
+	95%
+	
+
+	10
+(+5 PP)
+	Sunny Day
+  
+
+	
+
+	
+
+	
+
+	10
+(+5 PP)
+	Clamp
+  
+
+	35
+	100%
+(+25)
+	
+
+	10
+	Crabhammer
+  
+
+	110
+(+20)
+	100%
+(+15)
+	
+
+	10
+	Hydro Pump
+  
+
+	120
+	85%
+(+5)
+	
+
+	10
+(+5 PP)
+	Octazooka
+  
+
+	65
+	100%
+(+15)
+	
+
+	15
+(+5 PP)
+	Rain Dance
+  
+
+	
+
+	
+
+	
+
+	10
+(+5 PP)
+	Waterfall
+  
+
+	70
+(-10)
+	100%
+	Now has a 30% chance to cause a flinch.
+	15
+	Cross Chop
+  
+
+	100
+	85%
+(+5%)
+	
+
+	10
+(+5 PP)
+	DynamicPunch
+  
+
+	100
+	50%
+	
+
+	10
+(+5 PP)
+	Hi Jump Kick
+  
+
+	120
+(+35)
+	90%
+	
+
+	20
+	Jump Kick
+  
+
+	90
+(+20)
+	95%
+	
+
+	25
+	Low Kick
+  
+
+	50
+	100%
+(+10%)
+	
+
+	20
+	Mach Punch  
+	50
+(+10)
+	100%
+	
+
+	30
+	Rock Smash
+  
+
+	60
+(+40)
+	100%
+	Now has a 20% chance to lower a foe’s Defense by 1.
+	15
+	Rolling Kick
+  
+
+	60
+	100%
+(+15%)
+	
+
+	15
+	Submission
+  
+
+	90
+(+10)
+	100%
+(+20%)
+	
+
+	25
+	Triple Kick
+  
+
+	20/60/120
+(20+40+60)
+	100%
+	20 Base. 2nd hit doubles, 3rd hit triples. 33% for all hits to land.
+	15
+(+5 PP)
+	AncientPower
+  
+
+	60
+	100%
+	
+
+	10
+(+5 PP)
+	Rock Slide
+  
+
+	80
+(+5)
+	95%
+(+5%)
+	
+
+	15
+(+5 PP)
+	Rock Throw
+  
+
+	50
+	95%
+(+5%)
+	
+
+	25
+(+10 PP)
+	Cut
+  
+
+	55
+(+5)
+	95
+	Now has an increased critical hit ratio. NOW [BUG] TYPE.
+	30
+	Leech Life
+  
+
+	40
+(+20)
+	100%
+	
+
+	25
+(+10 PP)
+	Pin Missile
+  
+
+	20
+(+6)
+	100%
+(+15%)
+	
+
+	30
+(+10 PP)
+	Twineedle
+  
+
+	40x2
+(+15)
+	100%
+	
+
+	20
+	Bone Club
+  
+
+	65
+	100%
+(+15%)
+	
+
+	20
+	Bone Rush
+  
+
+	25
+	100%
+(+20%)
+	
+
+	20
+(+10 PP)
+	Bonemerang
+  
+
+	50
+	90%
+	
+
+	20
+(+10 PP)
+	Dig
+  
+
+	70
+(+10)
+	100%
+	
+
+	20
+(+10 PP)
+	Mud-Slap
+  
+
+	20
+	100%
+	
+
+	15
+(+5 PP)
+	Aeroblast
+  
+
+	100
+	95%
+	
+
+	10
+(+5 PP)
+	Fly
+  
+
+	70
+	100%
+(+5%)
+	
+
+	15
+	Sky Attack
+  
+
+	120
+(-20)
+	85%
+(-5)
+	No longer requires a charge-up turn.
+	10
+(+5 PP)
+	Poison Gas
+  
+
+	   
+	85%
+(+30)
+	
+
+	40
+	Poisonpowder
+  
+
+	
+
+	90%
+(+15%)
+	
+
+	35
+	Poison Sting
+  
+
+	30
+(+15)
+	100%
+	
+
+	35
+	Sludge Bomb
+  
+
+	90
+	100%
+	
+
+	15
+(+5 PP)
+	Smog
+  
+
+	25
+(+5)
+	100%
+(+30)
+	
+
+	20
+	Future Sight
+  
+
+	120
+(+40)
+	90%
+	
+
+	15
+	Psychic
+  
+
+	90
+	100%
+	
+
+	15
+(+5 PP)
+	Psywave
+  
+
+	?
+	95%
+(+15%)
+	
+
+	15
+	Rest
+  
+
+	   
+	   
+	
+
+	5
+(-5 PP)
+	Blizzard
+  
+
+	120
+	85%
+(+15)
+	
+
+	5
+	Ice Beam
+  
+
+	95
+	100%
+	
+
+	15
+(+5 PP)
+	Icy Wind
+  
+
+	65
+(+10)
+	100%
+(+5)
+	
+
+	20
+(+5 PP)
+	Lick
+  
+
+	30
+(+10)
+	100%
+	
+
+	30
+	DragonBreath
+  
+
+	70
+(+10)
+	100%
+	
+
+	20
+	Twister
+  
+
+	70
+(+30)
+	100%
+	
+
+	20
+	Outrage
+  
+
+	110
+(+20)
+	100%
+	
+
+	15
+(-5 PP)
+	Iron Tail
+  
+
+	100
+	90%
+(+10)
+	Now has a 20% chance to lower a foe’s Defense by 1.
+	15
+	Metal Claw
+  
+
+	70
+(+20)
+	100%
+(+5)
+	
+
+	25
+(-10 PP)
+	Spike Cannon
+  
+
+	22
+(+2)
+	100%
+	NOW [STEEL] TYPE.
+	15
+	Steel Wing
+  
+
+	70
+	100%
+(+10)
+	
+
+	25
+(+10 PP)
+	Beat Up
+  
+
+	20
+(+10)
+	100%
+	
+
+	10
+	Faint Attack
+  
+
+	70
+(+10)
+	101%
+	
+
+	20
+	Thief
+  
+
+	60
+(+20)
+	100%
+	
+
+	15
+(+5 PP)
+	Evolution Changes
+
+
+NEWLY ACQUIRED LEVEL UP METHOD
+  
+
+	  
+  
+
+42
+	  
+  
+
+38
+	
+
+	NEWLY ACQUIRED USE ITEM METHOD
+(Now works like Evolution Stones) 
+	  
+  
+   
+  
+
+
+
+	  
+
+
+
+  
+
+	  
+
+
+
+         
+	  
+
+         
+	  
+
+
+
+         
+	  
+
+  
+
+	  
+
+
+
+  
+
+	
+
+	UP-
+GRADE
+	KING’S
+ROCK
+	KING’S
+ROCK
+	METAL
+COAT
+	METAL
+COAT
+	BRICK 
+PIECE
+	DRAGON
+SCALE
+	EARLY EVOLUTIONS
+	  
+
+LV 21 (-1)
+	  
+
+LV 25 (-6)
+	  
+
+LV 28
+(-5)
+	  
+
+LV 27 (-11)
+	________________
+
+
+🏔️ Locations
+  Gift & Static Pokemon
+
+
+Pokemon
+	Location & Method of Obtaining.
+	  	  	  	-New Bark Town, Professor Elm’s Lab.
+-Given to the player as their Starter Pokemon. Must choose one between the three of them. 
+-All come equipped with a Berry.
+-Level 5.
+	  	-Violet City, Pokemon Center.
+-Given to the player by Elm’s Aide as an Egg.
+-Level 5.
+	        
+  
+
+  
+  
+
+	-Route 34, Daycare.
+-Given to the player by the Day Care Man as an Egg. One of seven will hatch from the Odd Egg. 
+-Has increased odds of becoming a Shiny. 
+-Knows Dizzy Punch.
+-Level 5.
+	      	-Goldenrod City, Game Corner (Repeatable).
+-Must be bought for 100, 800, & 1500 Coins respectively.
+-Must have the Coin Case, found in the Goldenrod Tunnel.
+-Abra is Level 5, Porygon & Dratini are Level 15.
+	  	-Route 35, Gate.
+-Given to the player by Randy, the receptionist.
+-Intended to be delivered to a man on Route 31 in exchange for TM50 Nightmare.
+-Comes equipped with Mail.
+-Level 15.
+	  	-Route 36, Weird Tree.
+Encountered on the path to Route 37 after spraying it with the SquirtleBottle. A forced encounter.
+-Level 20.
+	  
+
+	-Goldenrod City, Bill’s House.
+-Given to the player by Bill, after speaking with him at the Ecruteak Pokemon Center.
+-Level 20.
+	  
+  
+
+	-Roaming Johto.
+-Begin to roam after being interacted with at Burned Tower.
+-No longer have Roar.
+-Level 40.
+	  
+  
+  
+
+	-Ruins of Alph, Research Center.
+-Must be revived from Fossils, which are obtainable after clearing the Ruins of Alph puzzles. Speak to the Scientist at the Top Right of the Research Center.
+-Kabuto is Level 15, and obtainable after Gym 3.
+-Omanyte is Level 20, and obtainable after Gym 4.
+-Aerodactyl is Level 25, and obtainable after Gym 7.
+	  	-Mt. Mortar.
+-Given to the player after defeating Karate King Kiyo.
+-Now obtainable around Gym 4. No longer requires Waterfall to access.
+-Level 10.
+	  	-Union Cave, B2F.
+-Can only be encountered on Friday’s.
+-Level 20.
+	  
+
+	-Cianwood City, Mania’s House.
+-Given to the player by Mania. Intended to be given back.
+-Comes equipped with Berry Juice.
+-Level 15.
+	  
+  
+  
+
+	-Rocket HQ, B1F
+-Encountered while walking on the Trap Floor on B1F.
+-Cannot be run away from.
+-Level 21.
+	  
+x3
+	-Rocket HQ, B2F.
+-Encountered while disabling the Generators.
+-Forced to fight through 3 Electrodes.
+-Level 23.
+	  
+
+	-Tin Tower, Lowest Level.
+-Can be encountered after obtaining the Clear Bell, which is obtained after defeating Team Rocket at Radio Tower.
+-Level 40.
+	  	-Ilex Forest, at the Shrine.
+-Can be encountered after Gym 7, where if you have obtained the GS Ball at Ruins of Alph, Kurt will decipher the Ball for the player, unlocking the event.
+-Level 30.
+	  	Dragon’s Den, Master’s House.
+-Given to the player after returning to the house, if they answer their questions. If all questions were answered correctly, Dratini comes knowing ExtremeSpeed.
+-Level 15.
+	  	-Vermilion City.
+-Encountered after the player obtains the EXPN Card, and plays the Poke Flute channel to Snorlax.
+-Level 50.
+	  	-Whirl Islands, Deepest Chamber.
+-Encountered after obtaining the Silver Wing at Pewter City.
+-Level 60.
+	  	-Tin Tower, Highest Floor.
+-Encountered after obtaining the Rainbow Wing at Tin Tower, after catching Raikou, Entei, & Suicune, and entering the Hall of Fame.
+-Level 60.
+	
+
+Pokemon
+	Location & Method of Obtaining.
+	    
+
+  
+
+                   
+
+
+
+
+	Birds have to be defeated on their respective trainer’s teams. Once defeated they will be released into the wild, and allowed to be caught. 
+
+
+Zapdos- Outside Power Plant
+-Defeat the Champion Lance and fix the Power Plant.
+-Level 60
+
+
+Moltres- Victory Road
+-Defeat Blaine
+-Level 60
+
+
+Articuno- Seafoam Islands
+-Defeat Blue
+-Level 60
+	  	-Mt. Silver.
+-Encountered after defeating Red.
+-Level 75.
+	  	-Route 24, Nugget Bridge.
+-Encountered after obtaining the Diploma from the Lead Game Freak Developer, in Celadon City.
+-Must have 250 Pokemon registered in the Pokedex.
+	________________
+
+
+  
+
+Pokemon Locations
+In-Depth Wild Encounters
+Area
+	Available Pokemon
+	Notable Additions & Changes
+	Route 29
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 46
+	  
+  
+  
+  
+
+	-Phanpy now available at Day.
+	Cherrygrove City
+	  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 30
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Hoppip removed from Route 30.
+-Ledyba now available at Day.
+	Route 31
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+	-Hoppip removed from Route 31.
+-Pichu & Mareep added to Route 31 at Morning & Day.
+	Dark Cave (Route 31 Side)
+	  
+  
+  
+  
+  
+  
+
+	-Larvitar is added to Dark Cave.
+	Dark Cave (Route 45 Side)
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	None
+	Violet City
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Sprout Tower
+(2F-3F)
+	  
+  
+
+	-Gastly now available at Morning & Day on B3F.
+-Gastly less common at Night.
+	Route 36
+	  
+  
+  
+  
+  
+  
+
+  
+
+	-Ledyba & Spinarak removed from Route 36.
+-Houndour added to Route 36 at Night.
+	Ruins of Alph Inner
+	  
+
+	Unchanged from Vanilla.
+	Ruins of Alph Outside
+	  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 32
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Hoothoot & Hoppip removed from Route 32.
+-Mareep added to Route 32.
+-Wooper now available at Morning & Day.
+	Union Cave 1F
+	  
+  
+  
+  
+  
+  
+  
+
+	-Rattata & Wooper removed from Union Cave 1F (when not Surfing).
+-Cubone added to Union Cave 1F.
+	Union Cave B1F
+	  
+  
+  
+  
+  
+  
+
+	-Rattata & Wooper removed from Union Cave B1F (when not Surfing).
+-Marill added to Union Cave B1F.
+	Union Cave B2F
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Zubat & Geodude removed from Union Cave B2F.
+-Diglett & Kangaskhan added to Union Cave B2F.
+-Quagsire now available Morning & Day.
+	Route 33
+	  
+  
+  
+  
+  
+
+	-Geodude & Hoppip removed from Route 33. 
+-Machop added to Route 33.
+-Spearow available at Morning Only.
+-Ekans now available at Night.
+	Slowpoke Well 1F
+	  
+  
+  
+
+	Unchanged from Vanilla.
+	Slowpoke Well B1F
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Ilex Forest
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Pidgey removed from Ilex Forest.
+-Metapod available at Morning only, Kakuna available at Day Only.
+-Oddish now available all day.
+	Route 34
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Rattata, Pidgey, & Hoothoot removed from Route 34.
+-Mankey added to Route 34 at Morning & Day.
+-Grimer added to Route 34.
+-Snubbull now available at Night.
+	Route 35
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Jigglypuff, Drowzee, & Hoothoot removed from Route 35.
+-Growlithe now available at Night.
+-Yanma is more common on Route 35.
+	National Park (Regular)
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Pidgey & Ledyba  removed from National Park.
+-Scyther added to National Park.
+-Murkrow added to National Park at Night Only.
+	Route 37
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Ledyba removed from Route 37.
+-Vulpix added to Route 37 at Morning Only.
+-Stantler now available during Day.
+	Ecruteak City
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Burned Tower 1F
+	  
+  
+  
+  
+  
+  
+
+	-Slugma & Houndour added to Burned Tower 1F.
+-Zubat available during Night Only.
+	Burned Tower B1F
+	  
+  
+  
+  
+
+	-Weezing removed from Burned Tower B1F.
+-Magmar & Misdreavus added to Burned Tower B1F.
+	Tin Tower
+	  
+  
+
+	Unchanged from Vanilla.
+	Route 38
+	  
+  
+  
+  
+  
+  
+  
+
+	-Rattata & Pidgeotto removed from Route 38.
+-Doduo added to Route 38.
+-Tauros & Miltank are more common.
+	Route 39
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	-Rattata & Pidgeotto removed from Route 39.
+-Ponyta & Doduo added to Route 39.
+	Olivine City
+	  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Olivine City (Harbor)
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 40
+	  
+  
+  
+
+	-Shellder added to Route 40.
+	Route 41
+	  
+  
+  
+
+	-Tentacruel Removed from Route 41.
+-Horsea added to Route 41.
+	Whirl Islands
+(1F-Lugia Chamber)
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	-Zubat removed from Whirl Islands 1F & B1F.
+-Kingler & Dewgong added to Whirl Islands (only in Lugia’s Chamber).
+-Tentacool Removed from various rooms while Surfing.
+-Seadra added to Lugia’s Chamber while Surfing.
+	Cianwood City
+	  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 42
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Spearow & Rattata removed from Route 42.
+-Gligar added to Route 42.
+-Fearow is more common on Route 42.
+-Remoraid added to Route 42 while Surfing.
+	Mt. Mortar 1F Outside, 1F Inner, & B1F.
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Rattata & Raticate removed from Mt. Mortar 1F’s.
+-Cubone & Rhyhorn added to Mt. Mortar 1F’s.
+	Mt. Mortar 2F
+	  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 43
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Pidgeotto, Sentret, & Noctowl removed from Route 43.
+-Flaaffy, Girafarig, & Skarmory added to Route 43.
+	Lake of Rage
+	  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 44
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	-Bellsprout & Poliwag removed from Route 44 as Grass Encounters.
+-Pidgeotto & Electabuzz added to Route 44.
+	Ice Path 1F
+	  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Ice Path B1F, B2F, & B3F.
+	  
+  
+  
+  
+  
+
+	-Zubat removed from Ice Path B1F, B2F, & B3F.
+-Sneasel available all day, and more common.
+-Jynx now available at Night at B3F.
+	Dragon’s Den
+	  
+  
+
+	Unchanged from Vanilla.
+	Route 45
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	-Geodude & Phanpy removed from Route 45.
+-Ursaring added to Route 45 at Morning & Day.
+-Golbat & Murkrow added to Route 45 at Night Only.
+-Skarmory now available at Night.
+	New Bark Town
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Tohjo Falls
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	None
+	Route 27
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Raticate, Doduo, Noctowl, & Quagsire removed from Route 27.
+-Murkrow added to Route 27 during Night.
+-Chikorita added to Route 27 during Morning, Cyndaquil during Day, & Totodile during Night, all at Level 5.
+-Dodrio now available at Night.
+	Route 26
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Raticate, Sandslash, Doduo, & Quagsire removed from Route 26.
+-Murkrow added to Route 26 during Night.
+-Bulbasaur added to Route 26 during Morning, Charmander during Day, & Squirtle during Night, all at Level 5
+(all 1% encounters).
+-Dodrio now available at Night.
+	Victory Road
+	  
+  
+  
+  
+  
+  
+  
+
+	-Graveler & Rhyhorn removed from Victory Road.
+-Golem, Donphan & Steelix (1%) added to Victory Road.
+	Vermilion City (& Harbor)
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 4
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Cerulean City
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 5
+	  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 6
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 7
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Celadon City
+	  
+  
+
+	Unchanged from Vanilla.
+	Route 8
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 9
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 10
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	None.
+	Rock Tunnel 1F
+	  
+  
+  
+  
+  
+  
+  
+
+	None.
+	Rock Tunnel B1F
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	None.
+	Route 11
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 12
+	  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 13
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 14
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 15
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Fuchsia City
+	  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 16
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 17
+	  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 18
+	  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 24
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 25
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Diglett’s Cave
+	  
+  
+
+	Unchanged from Vanilla.
+	Pallet Town
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 1
+	  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Viridian City
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 2
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 3
+	  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Mt. Moon
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 19
+	  
+  
+
+	Unchanged from Vanilla.
+	Route 20
+	  
+  
+
+	Unchanged from Vanilla.
+	Cinnabar Island
+	  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 21
+	  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 22
+	  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Route 28
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	Unchanged from Vanilla.
+	Mt. Silver (Outside)
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Complete Wild Encounters Rework.
+-Ursaring Available all day.
+-Golem, Rapidash, & Skarmory available during Morning & Day.
+-Venusaur available during Morning.
+-Charizard & Donphan available during Day.
+-Blastoise, Crobat, Quagsire, & Houndoom available during Night.
+	Mt. Silver (Entrance)
+	  
+  
+  
+  
+  
+  
+  
+
+	-Wild Encounters gain around 20 levels each, except for Larvitar.
+	Mt. Silver (Inside)
+	  
+  
+  
+  
+  
+  
+  
+  
+  
+
+	-Wild Encounters gain around 20 levels each, except for Larvitar, & also Golduck & Seaking while Surfing.
+	Mt. Silver (Waterfall Room)
+	  
+  
+  
+
+	-Wild Encounters gain around 20 levels each.
+	Mt. Silver (Deepest)
+	  
+  
+  
+  
+  
+  
+  
+
+	-Wild Encounters gain around 20 levels each, except for Larvitar.
+	
+
+
+________________
+
+
+Learnsets and TMs
+
+
+Learnsets and TMs can be looked up inside the Pokedex in the game. Simply go to the pokemon you want to view and go to the screen for movies and look. 
+
+
+Below is the link to the Move data sheet and TM/HM Learnsets from Version 1.3. 
+Crystal Legacy Data - Google Sheets
+
+
+This tool can be used for quick searches on information about the pokemon. I recommend making a copy of it.
+Eddie1995 Pokemon Information Searcher
+
+
+
+
+________________
+
+
+🏪 Items and Misc.
+  Mart & Item Changes
+
+
+Mart name
+	Normal Items
+	Medicine Items
+	Pokeballs
+	T.M.s
+	Other Items
+	Cherrygrove City Mart
+	
+
+	Potion Antidote Parlyz Heal
+Awakening
+	Pokeball
+	
+
+	
+
+	Violet City Mart
+	Repel
+Escape Rope
+	Potion Antidote Parlyz Heal
+Awakening
+	Pokeball
+	
+
+	Flower Mail
+	Azalea City Mart
+	Super Repel
+Escape Rope
+	Super Potion
+Antidote
+Parlyz Heal
+Awakening
+	Pokeball
+	
+
+	Charcoal
+	Goldenrod Mart Floor 2
+	Escape Rope
+Repel
+Super Repel
+	Potion
+Super Potion
+Antidote
+Parlyz Heal
+Awakening
+Burn Heal
+Ice Heal
+Revive
+Full Heal
+	Pokeball
+Great Ball
+	
+
+	Poke Doll
+Flower Mail
+	Goldenrod Mart Floor 3
+	
+
+	X Speed
+X Special
+X Defend
+X Attack
+Dire Hit
+Guard Spec
+X Accuracy
+	
+
+	
+
+	
+
+	Goldenrod Mart Floor 4
+	
+
+	Protein
+Iron
+Carbos
+Calcium
+Hp Up
+	
+
+	
+
+	
+
+	Goldenrod Mart Floor 5
+	
+
+	
+
+	
+
+	Thunder Punch
+Fire Punch
+Ice Punch
+Headbutt
+Rock Smash
+(Must obtain their respective TMs for Headbutt & Rock Smash before they can be sold)
+	
+
+	Ecruteak City Mart
+	
+
+	Potion 
+Super Potion
+Full Heal
+Antidote
+Parlyz Heal
+Awakening
+Burn Heal
+Ice Heal
+Revive
+	Poke Ball 
+Great Ball
+	
+
+	
+
+	Olivine City Mart 
+	Super Repel
+	Super Potion
+Hyper Potion
+Full Heal 
+Antidote
+Parlyz Heal
+Awakening
+Ice Heal
+	Great Ball
+	
+
+	Surf Mail
+	Cianwood City Mart
+	Water Stone
+Fire Stone
+Leaf Stone
+Thunder Stone
+Sun Stone
+Moon Stone
+	Berry Juice
+Ether
+Energypowder
+Energy Root
+Heal Powder
+Revival Herb
+	
+
+	
+
+	
+
+	Mahogany City Pre Rocket Mart
+	Tiny Mushroom
+Slowpoketail
+	Potion
+	Pokeball
+	Frustration
+Roar
+	
+
+	Mahogany City Post Rocket Mart
+	Metal Coat
+Upgrade
+Brick Piece
+	Ragecandybar
+	
+
+	Dig
+Rollout
+Roar
+Swift
+Nightmare
+Defense Curl
+Detect
+Frustration
+	
+
+	Blackthorn City Mart
+	Max Repel
+	Hyper Potion
+Full Heal
+Revive
+	Ultra Ball
+	Sludge Bomb
+Steel Wing
+Thief
+Psych up
+Rain Dance
+Sunny Day
+	
+
+	Indigo Plateau Mart
+	Max Repel
+	Hyper Potion
+Max Potion
+Full Restore
+Revive
+Full Heal
+	Ultra Ball
+	
+
+	
+
+	Berry Shop Goldenrod
+	
+
+	Berry
+Bitter Berry
+Burnt Berry
+Ice Berry
+Mint Berry
+Mystery Berry
+PRZcure Berry
+PSNcure Berry
+	
+
+	
+
+	
+
+	Berry Shop Goldenrod 
+(Version 2)
+	
+
+	Berry
+Bitter Berry
+Burnt Berry
+Ice Berry
+Mint Berry
+Mystery Berry
+PRZcure Berry
+PSNcure Berry
+Gold Berry
+Miracle Berry
+	
+
+	
+
+	
+
+	Viridian City Mart
+	
+
+	Hyper Potion
+Full Heal
+Revive
+Antidote
+Parlyz Heal
+Awakening
+Burn Heal
+	Ultra Ball
+	
+
+	Flower Mail
+	Vermillion City Mart
+	
+
+	Super Potion
+Hyper Potion
+Revive
+Parlyz Heal
+Awakening
+Burn Heal
+	
+
+	
+
+	Little blue mail
+	Saffron City Mart
+	
+
+	Hyper Potion
+Max Potion
+Full Heal
+X Attack
+X Defend
+	Great Ball
+Ultra Ball
+	
+
+	Flower Mail
+	Cerulean City Mart
+	Super Repel
+	Super Potion
+Full Heal
+X Defend
+X Attack
+Dire Hit
+	Great Ball
+Ultra Ball
+	
+
+	Surf Mail
+	Lavender City Mart
+	Max Repel
+	Potion
+Super Potion
+Antidote
+Parlyz Heal
+Awakening
+Burn Heal
+	
+
+	
+
+	
+
+	Fuschia City Mart
+	Max Repel
+	Super Potion
+Hyper Potion
+Full Heal
+	Great Ball
+Ultra Ball
+	
+
+	Flower Mail
+	Celadon City Mart Floor 2
+	Super Repel
+Max Repe
+Escape Rope
+	Potion
+Super Potion
+Hyper Potion
+Max Potion
+Revive
+Full Heal
+Antidote
+Burn Heal
+Ice Heal
+Awakening
+Parlyz Heal
+	Pokeball
+Great Ball
+Ultra Ball
+
+
+	
+
+	
+
+	Celadon City Mart Floor 3
+	
+
+	
+
+	
+
+	Sunny Day
+Protect
+Rain Dance
+Sandstorm
+Endure
+Earthquake
+Solarbeam
+Psychic
+Zap Cannon
+	
+
+	Celadon City Mart Floor 4
+	
+
+	HP Up
+Protein
+Iron
+Carbos
+Calcium
+	
+
+	
+
+	
+
+	Celadon City Mart Floor 5-1
+	
+
+	
+
+	
+
+	Mud-Slap
+Fury Cutter
+Attract
+Shadow Ball
+DynamicPunch
+Icy Wind
+Iron Tail
+Dragonbreath
+Toxic
+Giga Drain
+	
+
+	Celadon City Mart Floor 5-2
+	
+
+	
+
+	
+
+	Hidden Power
+Swagger
+Snore
+Sleep Talk
+Sweet Scent
+Dream Eater
+Curse
+Rest
+	
+
+	Pewter City Mart
+	Super Repel
+	Super Potion
+Antidote
+Parlyz Heal
+Awakening
+Burn Heal
+	Great Ball
+	
+
+	
+
+	Viridian Mart
+	
+
+	Hyper Potion
+Full Heal
+Revive
+Antidote
+Parlyz Heal
+Awakening
+Burn Heal
+	Ultra Ball
+	
+
+	Flower Mail
+
+	
+
+Item Locations- I am listing the first place that you can find these items. If it is unchanged from base game I will note that as unchanged and you can google it. Check the team portion of the document to find stuff you can use Thief on to get the item.
+
+Kings Rock
+	Slowpoke Well & Ruins of Alph
+	Dragon Scale
+	Dragon’s Den, Mt. Mortar
+	Brick Piece
+	Basement of Goldenrod
+	Magnet
+	Additional copy at Voltorb Trade
+	Hard Stone
+	Additional copy at Onix Trade
+	Twisted Spoon
+	Ruins of Alph
+	Charcoal
+	Unchanged
+	Mystic Water
+	Unchanged
+	Miracle Seed
+	Unchanged
+	Soft Sand
+	Unchanged
+	Poison Barb
+	Additional copy at Ruins of Alph
+	Sharp Beak
+	Additional copy at Ruins of Alph
+	Spell Tag
+	Additional copy at Ruins of Alph
+	Pink Bow
+	Unchanged
+	Metal Coat
+	Mahogany Post Rockets, Fast Ship, Magneton Trade
+	Upgrade
+	Mahogany Post Rockets, Silph Co.
+	Nevermeltice
+	Unchanged
+	Blackbelt
+	Unchanged
+	Silverpowder
+	Ilex Forest
+	Leftovers
+	Celadon City, Wild Snorlax, Thief, Battle Tower
+	Scope Lens
+	Thief & Battle Tower
+	Quick Claw
+	National Park, Thief, Battle Tower
+	Berries
+	Goldenrod Berry store
+	Exp Share
+	Mr Pokemon with Egg/Red Scale Trade
+	Fire Stone
+	Cianwood City, Schoolboy Alan
+	Water Stone
+	Cianwood City, Fisherman Tully
+	Leaf Stone
+	Cianwood City, Picnicker Gina
+	Thunderstone
+	Cianwood City, Lass Dana
+	Moon Stone
+	Cianwood City, Tohjo Falls, Ruins of Alph
+	Sun Stone
+	Cianwood City, Ruins of Alph
+	
+
+  Assorted Changes
+
+
+There have been tons of Quality of Life changes made to this Rom in addition to all of the rebalancing you see in the rest of the Document. Here are some of them listed below:
+
+
+Ghost type is now Special, & Dark type is now Physical.
+Faster Nurse Joy Healing.
+Running Shoes (Press B). Works while Surfing.
+Berry Shop in Goldenrod.
+Ruins of Alph Rework to now give the player Fossils
+Celebi Event.
+Cianwood, Mahogany, & Blackthorn Marts.
+Hm’s now Deletable.
+Goldenrod Move Tutor now available after 7th gym, is 
+A daily event, and now costs 1000 Coins instead.
+Pokemon Sprites in game.
+T.M. Names now Visible.
+Two new difficulties! Hard Mode disallows non-held items in battle & forces Set mode, while in Hardcore Mode your Pokemon also cannot be revived.
+HMs now more commonly Learned.
+Repel Re-use Prompt.
+New Menu Sprites.
+Weather Icons in battle.
+Trainer’s Smith, Craig, and Weebra 
+want to battle! Go find them!
+Fight playtesters at the Battle Tower! With new upgraded rewards as well! Can you get them all?
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Tier 1
+	Thick Club
+	Brightpowder
+	Pikachu Poster
+	SNES
+	Tropic Plant
+	Silver Trophy
+	Tier 2
+	Focus Band
+	PP Up
+	Clefairy Poster
+	NES
+	Diglett Doll
+	Green Carpet
+	Tier 3
+	King’s Rock
+	Metal Coat
+	Machop Doll
+	Polkadot Bed
+	Shellder Doll
+	Magikarp Doll
+	Tier 4
+	Scope Lens
+	Quick Claw
+	Geodude Doll
+	Weedle Doll
+	Grimer Doll
+	Megna Plant
+	Tier 5
+	Light Ball
+	Stick
+	Staryu Doll
+	Oddish Doll
+	Voltorb Doll
+	Poliwag Doll
+	Tier 6
+	Fast Ball
+	Leftovers
+	Jigglypuff Doll
+	Pink Bed
+	Unown Doll
+	Red Carpet
+	Tier 7
+	Rare Candy
+	Lucky Egg
+	Jigglypuff Poster
+	Squirtle Doll
+	Bulbasaur Doll
+	Blue Carpet
+	Tier 8
+	Safari Ball
+	PP Max
+	Gengar Doll
+	Jumbo Plant
+	Onix Doll
+	Yellow Carpet
+	Tier 9
+	Sacred Ash
+	Lucky Punch
+	Pikachu Poster
+	Nintendo 64
+	Virtual Boy
+	Tentacool Doll
+	Tier 10
+	Master Ball
+	Berserk Gene
+	Surfing Pikachu Doll
+	Pikachu Bed
+	Lapras Doll
+	Gold Trophy
+	
+
+Player receives 1 of 6 listed items for a tier at random upon beating all 7 battles on said tier of the Battle Tower.
+________________
+
+
+😃 Trainers
+
+
+  Team Rocket
+
+
+
+
+Team Rocket has had many changes to make it a more threatening and cohesive Villain Group. The teams have been varied throughout the group to reflect their actions of stealing pokemon. In addition to revamping the Executives we have added an extra Grunt with a special story to follow along with through the experience named Eto (Hyuck-Hyuck-Hyuck). Below I will list the Teams of the Executives. Story elements will not be spoiled here outside the team compositions. Outside that you're just gonna have to experience it on your own and enjoy.
+
+
+Rocket Eto
+  
+
+(Slowpoke Well) 
+	  
+
+11
+	  
+
+11
+	  
+
+11
+	
+
+	Rocket Eto
+  
+
+(Rocket HQ)
+	  
+
+28
+	  
+
+28
+	  
+
+28
+	  
+
+28
+	
+
+	Rocket Eto
+  
+
+(Warehouse)
+	  
+
+36
+	  
+
+36
+	  
+
+36
+	  
+
+36
+	  
+
+36
+	
+
+	
+
+Executive Ariana 
+  
+
+(Rocket HQ)
+	  
+
+31
+	  
+
+30
+	  
+
+30
+	  
+
+31
+	
+
+	Executive Ariana 
+  
+(Radio Tower)
+	  
+
+39
+	  
+
+40
+	  
+
+39
+	  
+
+40
+	  
+
+41 
+	
+
+	Executive Archer
+  
+(Rocket HQ)
+	  
+
+30
+	  
+
+30
+	  
+
+29
+	  
+
+30
+	
+
+	Executive Archer
+  
+(Radio Tower)
+	  
+
+39
+	  
+
+38
+	  
+
+39
+	  
+
+38
+	  
+
+40
+	
+
+	________________
+
+
+
+
+
+
+Rival Changes
+
+
+  
+
+Rival #1
+	
+
+Battle #1 (Cherrygrove City)
+	Conditional Pokemon
+(Appear depending on trainer’s choice in Starter)
+	  
+
+5
+	  
+
+5
+	  
+
+5
+	
+
+  
+
+Rival #2
+	
+
+Battle #2 (Azalea Town)
+	Non Conditional Pokemon
+(Will always appear).
+	  
+
+15
+	  
+
+16
+	Conditional Pokemon
+(Appear depending on trainer’s choice in Starter)
+	  
+
+18
+	  
+
+18
+	  
+
+18
+	
+
+  
+
+Rival #3
+	
+
+Battle #3 (Burned Tower)
+	Non Conditional Pokemon
+(Will always appear).
+	  
+
+22!
+	  
+
+22!
+	Conditional Pokemon
+(Appear depending on trainer’s choice in Starter)
+	  
+
+24 
+	  
+
+24 
+	  
+
+24 
+	
+
+	  
+
+23
+	  
+
+23
+	  
+
+23
+	
+
+  
+
+Rival #4
+	
+
+Battle #4 (Goldenrod Underground Tunnel)
+	Non Conditional Pokemon
+(Will always appear).
+	  
+
+39
+	  
+
+39 
+	Conditional Pokemon
+(Appear depending on trainer’s choice in Starter)
+	  
+
+40 
+	  
+
+40
+	  
+
+40
+	
+
+	  
+  
+
+39            38
+	  
+  
+
+39            38
+	  
+  
+
+39            38
+	
+
+
+
+  
+
+Rival #5
+	
+
+Battle #5 (Victory Road)
+	Non Conditional Pokemon
+(Will always appear).
+	  
+
+45
+	  
+
+45
+	  
+
+48
+	Conditional Pokemon
+(Appear depending on trainer’s choice in Starter)
+	  
+
+47
+	  
+
+47
+	  
+
+47
+	
+
+	  
+  
+
+46            46
+	  
+  
+
+46            46
+	  
+  
+
+46            46
+	
+
+  
+
+Rival #6 & #7
+	
+
+Battle #6 & #7 (Mt. Moon & Indigo Plateau)
+	Non Conditional Pokemon
+(Will always appear).
+	  
+
+64/68
+	  
+
+64/68
+	  
+
+64/68
+	Conditional Pokemon
+(Appear depending on trainer’s choice in Starter)
+	  
+
+64/68
+	  
+
+64/68
+	  
+
+64/68
+	
+
+	  
+  
+
+64/68       64/68
+	  
+  
+
+64/68       64/68
+	  
+  
+
+64/68       64/68
+	
+
+________________
+
+
+
+
+Johto Gym Leaders
+
+
+Falkner
+  
+
+
+
+	  
+
+8
+	  
+
+10  
+Berry
+	
+
+	Movepools:
+	-Tackle
+-Mud-Slap
+-Quick Attack
+	-Tackle
+-Mud-Slap
+-Growl
+-Peck
+	
+
+	Bugsy
+  
+
+
+
+	  
+
+15
+	  
+
+15
+	  
+
+16  
+Berry Juice
+	
+
+	Movepools:
+	-Pin Missile
+-Headbutt
+-Mega Drain
+-Harden
+	-ThunderPunch
+-Comet Punch
+-Supersonic
+-Reflect
+	-Quick Attack
+-Fury Cutter
+-Cut
+-Pursuit
+	
+
+	
+
+
+
+
+
+
+
+Whitney
+  
+
+	  
+
+20
+	  
+
+20
+	  
+
+21  
+Miracle Berry
+	
+
+	Movepools:
+	-Headbutt
+-Charm
+-Ice Punch
+-Metronome
+	-Headbutt
+-Metal Claw
+-Lick
+-Mud-Slap
+	-Rollout
+-Attract
+-Stomp
+-Milk Drink
+	
+
+	Morty
+  
+
+	  
+
+24
+	  
+
+23
+	  
+
+24
+	  
+
+25  
+Miracle Berry
+	
+
+	Movepools:
+	-Hypnosis
+-Nightmare
+-Curse
+-Night Shade
+	-Swift
+-Hypnosis
+-Nightmare
+-Leer
+	-Shadow Ball
+-Pain Split
+-Perish Song
+-Psywave
+	-Hypnosis
+-Shadow Ball
+-Mean Look
+-Dream Eater
+	
+
+	
+
+
+
+Chuck 
+(Badge #5)
+  
+
+	  
+
+30
+	  
+
+30
+	  
+
+29
+	  
+
+31  
+Black Belt
+	
+
+	Movepools:
+	-Triple Kick
+-Rolling Kick
+-Dig
+-Pursuit
+	-Rock Slide
+-Thunderpunch
+-Low Kick
+-Faint Attack
+	-Low Kick
+-Karate Chop
+-Ice Punch
+-Rage
+	-Hypnosis
+-Mind Reader
+-Surf
+-DynamicPunch
+	
+
+	Chuck 
+(Badge #6)
+  
+
+	  
+
+35
+	  
+
+35
+	  
+
+35
+	  
+
+34
+	  
+
+36  
+Black Belt
+	
+
+	Movepools:
+	-Triple Kick
+-Rolling Kick
+-Dig
+-Pursuit
+	-Rock Slide
+-Thunderpunch
+-Low Kick
+-Faint Attack
+	-Rock Smash
+-Twineedle
+-Vicegrip
+-Harden
+	-Low Kick
+-Karate Chop
+-Ice Punch
+-Rage
+	-Hypnosis
+-Mind Reader
+-Surf
+-DynamicPunch
+	
+
+	Chuck 
+(Badge #7)
+  
+
+	  
+
+37
+	  
+
+37
+	  
+
+37
+	  
+
+37
+	  
+
+38  
+Black Belt
+	
+
+	Movepools:
+	-Triple Kick
+-Rolling Kick
+-Dig
+-Pursuit
+	-Rock Slide
+-Thunderpunch
+-Low Kick
+-Faint Attack
+	-Submission
+-Twineedle
+-Strength
+-Swords Dance
+	-DynamicPunch
+-Karate Chop
+-Rock Slide
+-Rage
+	-Ice Punch
+-Mind Reader
+-Surf
+-DynamicPunch
+	
+
+	
+
+Jasmine
+(Badge #5-6)
+  
+
+	  
+
+35
+	  
+
+35
+	  
+
+35
+	  
+
+36  
+Focus Band
+	  
+
+36  
+Quick Claw
+	
+
+	Movepools:
+	-Spikes
+-Drill Peck
+-Swagger
+-Steel Wing
+	-Thunderbolt
+-Tri Attack
+-Rain Dance
+-Thunder
+	-Rain Dance
+-Surf
+-Recover
+-AncientPower
+	-Twineedle
+-Metal Claw
+-Agility
+-Swords Dance
+	-Crunch
+-Earthquake
+-Rock Slide
+-Iron Tail
+	
+
+	Jasmine
+(Badge #7)
+  
+
+	  
+
+37
+	  
+
+37
+	  
+
+37
+	  
+
+38  
+Focus Band
+	  
+
+38  
+Quick Claw
+	
+
+	Movepools:
+	-Spikes
+-Drill Peck
+-Swagger
+-Steel Wing
+	-Thunderbolt
+-Tri Attack
+-Rain Dance
+-Thunder
+	-Rain Dance
+-Surf
+-Recover
+-AncientPower
+	-Twineedle
+-Metal Claw
+-Agility
+-Swords Dance
+	-Crunch
+-Earthquake
+-Rock Slide
+-Iron Tail
+	
+
+	
+
+
+
+Pryce
+(Badge #5)
+  
+
+	  
+
+31
+	  
+
+32
+	  
+
+31
+	  
+
+33  
+Gold Berry
+	
+
+	Movepools:
+	-Surf
+-Aurora Beam
+-Rain Dance
+-Rest
+	-Faint Attack
+-Metal Claw
+-Reflect
+-Icy Wind
+	-Ice Punch
+-Psychic
+-Rain Dance
+-Lovely Kiss
+	-Headbutt
+-Earthquake
+-Rock Smash
+-Blizzard
+	
+
+	Pryce
+(Badge #6)
+  
+
+	  
+
+33
+	  
+
+34
+	  
+
+34
+	  
+
+33
+	  
+
+35  
+Gold Berry
+	
+
+	Movepools:
+	-Surf
+-Spikes
+-Aurora Beam
+-Rain Dance
+	-Faint Attack
+-Metal Claw
+-Reflect
+-Ice Punch
+	-Surf
+-Aurora Beam
+-Snore
+-Rest
+	-Ice Punch
+-Psychic
+-Rain Dance
+-Lovely Kiss
+	-Headbutt
+-Earthquake
+-Rock Smash
+-Blizzard
+	
+
+	Pryce
+(Badge #7)
+  
+
+	  
+
+37
+	  
+
+37
+	  
+
+37
+	  
+
+37
+	  
+
+38  
+Gold Berry
+	
+
+	Movepools:
+	-Surf
+-Spikes
+-Aurora Beam
+-Rain Dance
+	-Faint Attack
+-Metal Claw
+-Reflect
+-Blizzard
+	-Surf
+-Aurora Beam
+-Snore
+-Rest
+	-Ice Punch
+-Psychic
+-Lovely Kiss
+-Shadow Ball
+	-Headbutt
+-Earthquake
+-Rock Smash
+-Blizzard
+	
+
+	Clair
+  
+
+	  
+
+42
+	  
+
+43  
+Focus Band
+	  
+
+43  
+Mint Berry
+	  
+
+44  
+Gold Berry
+	  
+
+45  
+Leftovers
+	
+
+	Movepools:
+	-Thunder Wave
+-Thunderbolt
+-Flamethrower
+-Dragonbreath
+	-Bite
+-Waterfall
+-Fly
+-Twister
+	-Surf
+-Ice Beam
+-Body Slam
+-Rest
+	-Thunder Wave
+-Thunderbolt
+-Ice Beam
+-Dragonbreath
+	-Smokescreen
+-Surf
+-Hyper Beam
+-Dragonbreath
+	
+
+	
+
+Johto Gym Leaders received changes based off these ideas. Ace Pokemon should be from Johto (like Noctowl) or heavily featured in things in Johto (Like Scyther for Bugsy). Teams were made to be strong but not necessarily a challenge mode. If you want a challenge look out for our Gym Rematches.
+Elite Four & Champion
+  
+
+Will
+  
+
+	  
+
+48
+	  
+
+48
+	  
+
+49  
+Quick Claw
+	  
+
+49
+	  
+
+50  
+TwistedSpoon
+	
+
+	Movepools:
+	-Psychic
+-Rock Smash
+-Agility
+-Baton Pass
+	-Psychic
+-Shadow Ball
+-Reflect
+-Headbutt
+	-Curse
+-Rock Smash
+-Body Slam
+-Psychic
+	-Amnesia
+-Flamethrower
+-Surf
+-Psychic
+	-Drill Peck
+-Recover
+-Confuse Ray
+-Psychic
+	
+
+	Koga
+  
+
+	  
+
+50  
+King’s Rock
+	  
+
+50  
+Leftovers
+	  
+
+51
+	  
+
+51 
+	  
+
+52  
+BrightPowder
+	
+
+	Movepools:
+	-Megahorn
+-Giga Drain
+-Double Team
+-Toxic
+	-Minimize
+-Fire Blast
+-Sludge Bomb
+-Toxic
+	-Toxic
+-Protect
+-Surf
+-Sludge Bomb
+	-Leech Life
+-Psychic
+-Sludge Bomb
+-Sleep Powder
+	-Double Team
+-Toxic
+-Bite
+-Confuse Ray
+	
+
+	
+
+Bruno
+  
+
+Hoo-Hah!
+	  
+
+53  
+Scope Lens
+	  
+
+52
+	  
+
+53  
+Pink Bow
+	  
+
+53
+	  
+
+54  
+Black Belt
+	
+
+	Movepools:
+	-Mach Punch
+-Pursuit
+-Dizzy Punch
+-ThunderPunch
+	-Cross Chop
+-Megahorn
+-Take Down
+-Earthquake
+	-Body Slam
+-Meditate
+-Reversal
+-Hi Jump Kick
+	-Crunch
+-Earthquake
+-Rock Slide
+-Iron Tail
+	-Rock Slide
+-Fire Punch
+-Vital Throw
+-Cross Chop
+	
+
+	
+
+Karen
+  
+
+	  
+
+54  
+MiracleBerry
+	  
+
+53  
+Leftovers
+	  
+
+53 
+	  
+
+53  
+Sharp Beak
+	  
+
+55  
+BlackGlasses
+	
+
+	Movepools:
+	-Faint Attack
+-Moonlight
+-Double Team
+-Baton Pass
+	-Sleep Powder
+-Giga Drain
+-Leech Seed
+-Substitute
+	-Shadow Ball
+-Hypnosis
+-Dream Eater
+-Confuse Ray
+	-Drill Peck
+-Faint Attack
+-Steel Wing
+-Haze
+	-Flamethrower
+-Crunch
+-Iron Tail
+-Reversal
+	
+
+	Lance
+  
+
+
+
+	  
+
+54  
+Leftovers
+	  
+
+55  
+Gold Berry
+	  
+
+54  
+Charcoal
+	  
+
+55  
+Magnet
+	  
+
+54  
+Pink Bow
+	  
+
+56   
+MiracleBerry
+	
+
+
+
+All changes to the E4 were made to make it one of the most challenging experiences of the game. This is the Final Boss Battle of Johto so it should reflect that. Teams were given unique identities featuring pokemon from Johto or that haven’t had a spotlight yet. 
+
+
+Lance explains that Red has left him in charge of the League and in care of one of the Legendary Birds, Zapdos. There is more to the explanation but you are gonna have to play to see it. 
+________________
+
+
+Kanto Gym Leaders
+  
+
+Lt. Surge
+  
+
+	  
+
+57   
+Focus Band
+	  
+
+59
+	  
+
+58  
+Leftovers
+	  
+
+58
+	  
+
+59   
+Scope Lens
+	  
+
+60   
+Magnet
+	Movepools:
+	-Thunder
+-Rain Dance
+-Thunder Wave
+-Explosion
+	-Thunder
+-Reflect
+-Rain Dance
+-Double Edge
+	-Surf
+-Ice Beam
+-Thunderbolt
+-Confuse Ray
+	-Rain Dance
+-Thunder
+-Thunder Wave
+-Iron Tail
+	-Fire Punch
+-Thunderbolt
+-Submission
+-Ice Punch
+	-Rain Dance
+-Body Slam
+-Surf
+-Thunder
+	Erika
+  
+
+	  
+
+61  
+Focus Band
+	  
+
+60
+	  
+
+60
+	  
+
+61  
+Leftovers
+	  
+
+62  
+Poison Barb
+	  
+
+62  
+Miracle Seed
+	Movepools:
+	-Leech Seed
+-Encore
+-Giga Drain
+-Sleep Powder
+	-Rock Slide
+-Earthquake
+-Faint Attack
+-ThunderPunch
+	-Giga Drain
+-Stun Spore
+-Ancient Power
+-Psychic
+	-Sunny Day
+-Sleep Powder
+-Sludge Bomb
+-Solarbeam
+	-Sleep Powder
+-Swords Dance
+-Sludge Bomb
+-Giga Drain
+	-Sunny Day
+-Synthesis
+-Sleep Powder
+-Solarbeam
+	Misty
+  
+
+	  
+
+62
+	  
+
+61  
+Leftovers
+	  
+
+62  
+Quick claw
+	     
+        61
+	  
+
+62  
+Nevermeltice
+	  
+
+63  
+Mystic Water
+	Movepools:
+	-Surf
+-Hypnosis
+-Cross Chop
+-Psychic
+	-Surf
+-Acid Armor
+-Shadow Ball
+-Ice Beam
+	-Surf
+-Amnesia
+-Earthquake
+-Rain Dance
+	-Hydro Pump
+-Ice Beam
+-Rest
+-Sleep Talk
+	-Surf
+-Reflect
+-Ice Beam
+-Rain Dance
+	-Surf
+-Psychic
+-Recover
+-Thunderbolt
+	
+
+Janine
+  
+
+	  
+
+63  
+Leftovers
+	  
+
+62
+	  
+
+62  
+Mystic Water
+	  
+
+62  
+Quick Claw
+	  
+
+63
+	  
+
+64  
+BrightPowder
+	Movepools:
+	-Sludge Bomb
+-Fire Blast
+-Destiny Bond
+-Amnesia
+	-Minimize
+-Sludge Bomb
+-Toxic
+-Acid Armor
+	-Surf
+-Ice Beam
+-Toxic
+-Confuse Ray
+	-Earthquake
+-Sludge Bomb
+-Thunderbolt
+-Submission
+	-Pursuit
+-Sludge Bomb
+-Confuse Ray
+-Toxic
+	-Giga Drain
+-Psychic
+-Toxic
+-Double Team
+	Sabrina
+  
+
+	  
+
+65  
+Quick Claw
+	  
+
+64
+	  
+
+64  
+Mint Berry
+	  
+
+64  
+Leftovers
+	  
+
+65  
+Focus Band
+	  
+
+66  
+TwistedSpoon
+	Movepools:
+	-Thunder Wave
+-Encore
+-Ice Punch
+-Psychic
+	-Lovely Kiss
+-Ice Beam
+-Psychic
+-BubbleBeam
+	-Rest
+-Sleep Talk
+-Submission
+-Surf
+	-Mirror Coat
+-Counter
+-Safeguard
+-Destiny Bond
+	-Dream Eater
+-Fire Punch
+-Submission
+-Hypnosis
+	-Psychic
+-Shadow Ball
+-Recover
+-ThunderPunch
+	Brock
+  
+
+	  
+
+66  
+Quick Claw
+	  
+
+66  
+Hard Stone
+	  
+
+66  
+Focus Band
+	  
+
+66  
+Scope Lens
+	  
+
+66  
+Magnet
+	  
+
+66  
+Leftovers
+	Movepools:
+	-Curse
+-Rock Slide
+-Body Slam
+-Earthquake
+	-Sky Attack
+-Earthquake
+-AncientPower
+-Fire Blast
+	-AncientPower
+-Surf
+-Ice Beam
+-Toxic
+	-Swords Dance
+-Surf
+-AncientPower
+-Cut
+	-Crunch
+-Rock Slide
+-Curse
+-Thunderbolt
+	-Curse
+-Earthquake
+-Rock Slide
+-Iron Tail
+	Blaine
+  
+
+	  
+
+66  
+Quick Claw
+	  
+
+65  
+Gold Berry
+	  
+
+66  
+Miracle Seed
+	  
+
+65  
+Leftovers
+	  
+
+67  
+Sharp Beak
+	  
+
+67  
+Charcoal
+	Movepools:
+	-Double-Edge
+-Solarbeam
+-Sunny Day
+-Fire Blast
+	-ThunderPunch
+-Fire Blast
+-Psychic
+-Confuse Ray
+	-Fire Blast
+-Sunny Day
+-Solarbeam
+-Crunch
+	-Fire Blast
+-Shadow Ball
+-Sunny Day
+-Hypnosis
+	-Fire Blast
+-Sky Attack
+-Solarbeam
+-Sunny Day
+	-Crunch
+-ExtremeSpeed
+-DragonBreath
+-Fire Blast
+	Blue
+  
+
+	  
+
+69  
+Miracle Berry
+	  
+
+68  
+TwistedSpoon
+	  
+
+67  
+Scope Lens
+	  
+
+68  
+Focus Band
+	  
+
+68  
+Leftovers
+	  
+
+69  
+Pink Bow
+	Movepools:
+	-Ice Beam
+-Sky Attack
+-Rest
+-Toxic
+	-ThunderPunch
+-Recover
+-Psychic
+-ShadowBall
+	-Cross Chop
+-Rock Slide
+-Earthquake
+-Body Slam
+	-Hydro Pump
+-Double Team
+-Body Slam
+-Reversal
+	-Leech Seed
+-Sleep Powder
+-Psychic
+-Giga Drain
+	-Flamethrower
+-Curse
+-Crunch
+-ExtremeSpeed
+	Kanto will receive an expansion in the future in DLC. However until then we have balanced the Gym leaders to make a more challenging experience. These are trainers who have had 3 years to train up their teams to be as strong as possible. They will have the most optimized pokemon teams to make them way more challenging.
+________________
+Rematches
+Falkner
+  
+
+(After becoming the Champion)
+	  
+
+54  
+Gold Berry
+	  
+
+53
+	  
+
+53  
+Focus Band
+	  
+
+54
+	  
+
+55
+	
+
+	Movepools:
+	-Psychic
+-Wing Attack
+-Hypnosis
+-Dream Eater
+	-Spikes
+-Drill Peck
+-Mud-Slap
+-Steel Wing
+	-Endure
+-Flail
+-Drill Peck
+-Tri Attack
+	-Drill Peck
+-Faint Attack
+-Haze
+-Icy Wind
+	-Sky Attack
+-ExtremeSpeed
+-Double Team
+-Steel Wing
+	
+
+	Bugsy
+  
+
+(After becoming the Champion)
+	  
+
+54  
+Focus Band
+	  
+
+53
+	  
+
+53  
+Berry Juice
+	  
+
+54
+	  
+
+55  
+Scope Lens
+	
+
+	Movepools:
+	-Giga Drain
+-Agility
+-Baton Pass
+-Light Screen
+	-Curse
+-Explosion
+-Pin Missile
+-Spike Cannon
+	-Toxic
+-Protect
+-Sandstorm
+-Wrap
+	-Metal Claw
+-Twineedle
+-Agility
+-Substitute
+	-Slash
+-Cut
+-Wing Attack
+-Swords Dance
+	
+
+	Whitney
+  
+
+(After becoming the Champion)
+	  
+
+53
+	  
+
+54  
+Mint Berry
+	  
+
+53
+
+
+	  
+
+54
+
+
+	  
+
+55  
+Pink Bow
+	
+
+	Movepools:
+	-Ice Punch
+-Fire Punch
+-ThunderPunch
+-Encore
+	-Strength
+-Earthquake
+-Rest
+-Metal Claw
+	-Egg Bomb
+-Attract
+-Softboiled
+-Light Screen
+	-Thrash
+-Earthquake
+-Rage
+-Pursuit
+	-Iron Tail
+-Attract
+-Body Slam
+-Milk Drink
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Morty
+  
+
+(After becoming the Champion)
+	  
+
+54
+	  
+
+53  
+Pink Bow
+	  
+
+54  
+Spell Tag
+	  
+
+53
+	  
+
+55  
+Gold Berry
+	
+
+	Movepools:
+	-Shadow Ball
+-Destiny Bond
+-Mean Look
+-Confuse Ray
+	-Shadow Ball
+-Headbutt
+-Hypnosis
+-Dream Eater
+	-Shadow Ball
+-Giga Drain
+-Sludge Bomb
+-Psychic
+	-Shadow Ball
+-Mean Look
+-Pain Split
+-Perish Song
+	-Shadow Ball
+-Hypnosis
+-Thunderbolt
+-Dream Eater
+	
+
+	Chuck 
+  
+
+(After becoming the Champion)
+	  
+
+54  
+Scope Lens
+	  
+
+53
+	  
+
+53
+	  
+
+54
+	  
+
+55  
+Black Belt
+	
+
+	Movepools:
+	-Triple Kick
+-Double Kick
+-Dig
+-Pursuit
+	-Rock Slide
+-ThunderPunch
+-LowKick
+-Faint Attack
+	-Submission
+-Twineedle
+-Strength
+-Swords Dance
+	-Cross Chop
+-ThunderPunch
+-Rock Slide
+-Meditate
+	-Surf
+-DynamicPunch
+-Belly Drum
+-Body Slam
+	
+
+	Jasmine
+  
+
+(After becoming the Champion)
+	  
+
+53
+	  
+
+54
+	  
+
+53
+	  
+
+55  
+Focus Band
+	  
+
+55  
+Quick Claw
+	
+
+	Movepools:
+	-Spikes
+-Drill Peck
+-Swagger
+-Steel Wing
+	-Double-Edge
+-Substitute
+-Rain Dance
+-Thunder
+	-Rain Dance
+-Surf
+-Recover
+-AncientPower
+	-Twineedle
+-Swords Dance
+-Steel Wing
+-Light Screen
+	-Crunch
+-Earthquake
+-Rock Slide
+-Iron Tail
+	
+
+	
+
+Pryce
+  
+
+(After becoming the Champion)
+	  
+
+54
+	  
+
+53  
+MiracleBerry
+	  
+
+53
+	  
+
+54
+	  
+
+55  
+Soft Sand
+	
+
+	Movepools:
+	-Faint Attack
+-Metal Claw
+-Beat Up
+-Blizzard
+	-Surf
+-Ice Beam
+-Rest
+-Encore
+	-Ice Beam
+-Psychic
+-Shadow Ball
+-Lovely Kiss
+	-Surf
+-Ice Beam
+-Body Slam
+-Confuse Ray
+	-Strength
+-Earthquake
+-Rock Smash
+-Blizzard
+	
+
+	Clair
+  
+
+(After becoming the Champion)
+	  
+
+54  
+Gold Berry
+	  
+
+53  
+Focus Band
+	  
+
+55  
+MiracleBerry
+	  
+
+54  
+Gold Berry
+	  
+
+55  
+Leftovers
+	
+
+	Movepools:
+	-Thunder Wave
+-Thunderbolt
+-Flamethrower
+-DragonBreath
+	-Bite
+-Surf
+-Fly
+-Twister
+	-Surf
+-Ice Beam
+-Body Slam
+-Rest
+	-Thunder Wave
+-Thunderbolt
+-Ice Beam
+-DragonBreath
+	-Agility
+-Hydro Pump
+-Ice Beam
+-Dragonbreath
+	
+
+	
+
+Elite 4 Rematches
+________________
+
+
+Will
+  
+
+	  
+
+66  
+Scope Lens
+	  
+
+67  
+Leftovers
+	  
+
+67  
+Quick Claw
+	  
+
+67  
+Miracleberry
+	  
+
+67  
+Charcoal
+	  
+
+68  
+Leftovers
+	Movepools:
+	-Double Edge
+-Reflect
+-Earthquake
+-Hidden Power
+	- Rest
+-Sleep Talk
+-Surf
+-Flamethrower
+	-Flamethrower
+-Rock Smash
+-Earthquake
+-Curse
+	-Sleep Powder
+-Ancientpower
+-Dream Eater
+-Softboiled
+	-Fire Balst
+-Shadow Ball
+-Confuse Ray
+-Iron Tail
+	-Future Sight
+-Protect
+-Fly
+-Confuse Ray
+	Koga
+  
+
+	  
+
+67  
+Mint Berry
+	  
+
+67  
+Leftovers
+	  
+
+67  
+Quick Claw
+	  
+
+67  
+Brightpowder
+	  
+
+67  
+Scope Lens
+	  
+
+68  
+Leftovers
+	Movepools:
+	-Waterfall
+-Rest
+-Blizzard
+-Giga Drain
+	-Minimize
+-Fire Blast
+-Sludge Bomb
+-Toxic
+	-Lovely Kiss
+-Fire Blast
+-Surf
+-Earthquake
+	-Fire Punch
+-Thunder Wave
+-Psychic
+-Shadow Ball
+	-Earthquake
+-Iron Tail
+-Sludge Bomb
+-Faint Attack
+	-Protect
+-Toxic
+-Fly
+-Confuse Ray
+	
+
+Bruno
+  
+
+Hoo-Hah!
+	  
+
+67  
+Quick Claw
+	  
+
+68  
+Scope Lens
+	  
+
+67  
+Quick Claw
+	  
+
+68  
+Scope Lens
+	  
+
+67  
+Leftovers
+	  
+
+68  
+Leftovers
+	Movepools:
+	-Crunch
+-Earthquake
+-Explosion
+-Rock Slide
+	-Submission
+-Hydro Pump
+-Psychic
+-Blizzard
+	-Cross Chop
+-Megahorn
+-Reversal
+-Earthquake
+	-Curse
+-Earthquake
+-Ancientpower
+-Rock Smash
+	-Hidden Power
+-Crunch
+-Rest
+-Snore
+	-Rock Slide
+-Earthquake
+-Body Slam
+-Cross Chop
+	
+
+
+
+Karen
+  
+
+	  
+
+68  
+MiracleBerry
+	  
+
+67  
+Scope Lens
+	  
+
+68  
+Scope Lens
+	  
+
+68  
+Sharp Beak
+	  
+
+67  
+Leftovers
+	  
+
+69  
+Charcoal
+	Movepools:
+	-Growth
+-Hidden Power
+-Shadow Ball
+-Baton Pass
+	-Slash
+-Hypnosis
+- Iron Tail
+-Cut
+	-Shadow Ball
+-Psychic
+-Destiny Bond
+-Giga Drain
+	-Sky Attack
+-Pursuit
+-Swagger
+-Psych Up
+	-Psychic
+-Softboiled
+-Attract
+-Zap Cannon
+	-Flamethrower
+-Crunch
+-Iron Tail
+-Hidden Power
+	
+
+Lance
+  
+
+
+
+
+
+	  
+
+69  
+Magnet
+	  
+
+68   
+Miracle Berry
+	  
+
+68   
+Quick Claw
+	  
+
+69  
+Leftovers
+	  
+
+69  
+Scope Lens
+	  
+
+70   
+Pink Bow
+	________________
+
+
+Pokemon Trainer Red
+Red
+  
+
+	  
+
+93   
+Light Ball
+	  
+
+75  
+MiracleBerry
+	  
+
+75  
+Leftovers
+	  
+
+77   
+Miracle Seed
+	  
+
+77  
+Charcoal
+	  
+
+77   
+Quick Claw
+	Movepools:
+	You wish lol
+	
+
+Red is only accessible after beating all 16 gyms in the game at the top of Mt. Silver. Because this is the ultimate battle of the game I left the moves off so you can fight and figure them out for yourself. Be prepared this is probably one of the hardest battles in the game.
+
+
+
+
+
+
+After beating him for the first time an event will play and once you complete the event the credits will roll. And you have technically beat the game. 
+
+He can be reset for a rematch by defeating the Elite 4 and going back to fight him. 
+________________
+
+
+Trainers
+Crystal Legacy Trainer Documentation: Version #1.2
+Crystal Legacy Major Battle Documentation
+
+
+Trainers in this Rom Hack have received tons of changes to make teams more interesting and viable. Things like Pokemon Available nearby, Trainer Class, EXP provided, and just interest were added to these fights. Our goal is to make it so that you don’t just steamroll the whole game now you have to pay attention in case that opponent has a pokemon with good moves. 
+
+
+Pokemon were added to teams either to reflect their trainer class or the pokemon you could catch on the route. This helps players see what rare pokemon might be hidden on the route around you. For Example these 2 hikers in Union Cave both have pokemon that are found in the cave. In addition one of them has the rare pokemon Cubone to hint at its new location.
+  
+
+
+
+Pokemon were added to teams as well later in the game solely to progress the difficulty and allow the player with more exp before moving on to more challenging fights. For example the teams in the early parts of the games have 1-3 pokemon. Towards the end part of the game teams can go anywhere between 2-5. See examples of teams found in early and late game.    
+Finally, Teams are also added with just challenge in mind. Every once in a while you’re gonna run into a trainer who has a pretty challenging Pokemon or team. This is best exemplified by the trainers on the route before Victory Road. These are trainers who have beaten the 8 gyms of Johto assumedly because they got past the waterfall. They are preparing for the Elite 4 challenge and you the player have to fight them. See below a couple of examples of teams from this area.
+  
+
+
+
+If you want to see a list of all of these trainers and their pokemon for research purposes or for info during a nuzlocke please look at the files below the title of this section. The document listed above by Regi from the Mod Team is a list of every trainer and their respective teams throughout the entire game, that he updates regularly every Playtest & Release Version. 
+🗒️ Conclusion
+In Memoriam
+
+
+* This section is dedicated to the memory of the features, Pokemon, and characters that were in earlier versions of the game and deleted for various reasons. This is meant to be nostalgic for the testing process and all of the cool and funny things that happened during it.
+
+Meganium Sleep Powder 
+* Alakazam Elemental Punches 
+* Gengar Elemental Punches 
+* Claire's Feraligatr  
+* Bugsy's Ariados
+* Goldenrod Giga Drain TM 
+* Schoolboy Jacks Scyther (The Menace)
+* Fisherman’s Goldeen (as seen on stream)
+* Morty's V1 Stantler (The Sweeper) 
+* Jasmine's Ampharos 
+* Cooltrainer Beth’s Lv 43 Rapidash on Route 34
+* Rocket Executives Jesse & James 
+* Rocket Executive James's Umbreon 
+* Final Boss Giovanni 
+* Will's Exeggutor & Jynx 
+* Koga's Forretress
+* Koga's Sneasel 
+* Koga’s Tentacruel
+* Karen's Tyranitar 
+* Rival's Uslesess Tyrtanitar (the infamous typos)
+The return of MissingNo 
+* Level 133 Janines Poliwrath
+* Glitch Kenji & his level 92 Cloyster.
+*   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+Credits
+
+
+Project Director:
+TSP (TheSmithPlays)
+Programming & Coding:
+Craig/cRz Shadows
+Video Editor:
+Weebra
+Discord Admin Team:
+Aerogod223, Zuperzach, Regi, Karlos.
+Project & Discord Manager During Development:
+JaaShooUhh
+Playtesters:
+Daily, Tiberius, Disq, Sable, Niftimo, Tavros, Reader Dragon, Half1sch, BriceMCK, Isona, Obelisk.
+Custom Sprites:
+Katt, Chamber, Soloo993, Blue Emerald, Lake, Neslug, Tom Wang, Seasick, & Pikachu25
+PRET (Disassembly Team), Additional Programming Assistance, & PokeCrystal Tutorials:
+Where you can find all Pret Tutorials:
+   * https://github.com/pret/pokecrystal/wiki
+Code Credits:
+Rangi42:
+Add a new map and landmark
+Add a new trainer class
+Add a new item
+Add a new party menu icon
+Add a new overworld sprite
+Add a new Mart
+Add a fourth stats page
+Add a new spawn point
+Add a new scene script
+Expand tilesets from 192 to 255 tiles
+Allow more than 15 object_events per map
+Improve the outdoor sprite system
+Color party menu icons by species
+Colored trainer card badges
+Show the tops of leaders heads on the trainer card
+Show move names when you receive a TM or HM
+Automatically reuse Repel
+Running Shoes
+Show an icon for the current weather
+Use unique colors for each thrown Poké Ball
+Level cap
+
+Nayru62:
+Nayru's Pokedex
+Ultimate Pokemon stats pages
+Move reminder and egg move reminder - (Adapted from Rangi42's Polished Crystal)
+Kurt Makes Pokeballs Instantly
+
+Idain:
+Allow more trainer parties, with individual DVs, stat experience, nicknames, variable teams, etc
+Color Pokémon pictures shown in overworld
+Option to show shiny colors in Pokédex
+
+aaaaaa123456789 - Remove the artificial save delay
+SonicRay100 - Simplify the Clock Reset Procedure
+Etdv-thevoid - Add a third trainer card page for Kanto badges
+coco-bandicoot - Restore the GS Ball Celebi Event
+MajorAgnostic - Force Set battle style or forbid item usage in battle
+KDLPro - Make new battle text to distinguish status move misses and fails
+Nick-PC - Splash a Pokédex Entry from an Overworld Event (Generation I)
+XaeroChill - Reviving Pokémon from Fossils (Gen I)
+NobodySociety - Customizable Pokédex Color
+Luther7718 - Text Suggestions/Fixes
+Mauve - Soft reset on wipeout (used in hardcore mode)

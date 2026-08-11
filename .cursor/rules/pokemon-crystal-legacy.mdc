@@ -32,6 +32,21 @@ Personal walkthrough / notes / discussion live on Notion — treat as the **livi
 
 Page covers: Johto/Kanto route order, daily services, story walkthrough, labels (`[EVENT]`, `[ปริศนา]`, `[เสริม]`, `[สำคัญ]`, `[Legacy ต่าง]`).
 
+### Notion tag colors (mandatory when writing/editing blocks)
+
+Never overwrite a labeled bullet as one plain `rich_text` span — that strips color. Split tag + body:
+
+| Tag | `annotations` |
+|---|---|
+| `[EVENT]` | `bold` + `color: "blue"` |
+| `[ปริศนา]` | `bold` + `color: "orange"` |
+| `[สำคัญ]` | `bold` + `color: "brown"` |
+| `[Legacy ต่าง]` / `[Legacy]` | `bold` + `color: "red"` |
+| `[เสริม]` | `bold` + `color: "green"` |
+| `[Repo check]` | `bold` + `color: "purple"` |
+
+Body text = separate span, `color: "default"`. Preserve existing bold on item names when editing.
+
 ## Current play context (user)
 
 Keep this in mind when discussing gameplay / setup — do **not** invent RetroArch steps; confirm before changing configs.
