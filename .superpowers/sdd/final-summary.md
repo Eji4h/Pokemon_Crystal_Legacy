@@ -2,34 +2,40 @@
 
 **Date:** 2026-08-11  
 **Branch:** `personal/notes`  
-**Overall status:** PARTIAL — Tasks 1–2 complete; Tasks 3–7 need bulk migration + manual image Move
+**Overall status:** **DONE** (driver `{done:true}`; human map images only)
 
 ## Completed
-1. **Gen 2 type chart generator** — tested, committed (`89b431d`)
-2. **10 Notion child pages** — IDs in `docs/superpowers/artifacts/notion-child-ids.json`
-3. **Hub type chart (partial)** — 5 Mermaid diagrams + Water toggle on hub
-4. **Quick links callout** on hub
-5. **Helper scripts:** `scripts/notion_hub_migrate.mjs`, `scripts/notion_type_chart_toggles.mjs`
 
-## Child page IDs
-See `docs/superpowers/artifacts/notion-child-ids.json`
+1. **Gen 2 type chart generator** — `scripts/gen2_type_chart_notion.mjs` + test; commit `89b431d`
+2. **10 Notion child pages** — IDs in `docs/superpowers/artifacts/notion-child-ids.json`; commit `53316f7`
+3. **Maps (Task 3)** — Map text/callouts on child page; hub stub with page mention; 3 route images still on hub (Notion UI Move)
+4. **Walkthrough migration (Tasks 4–5)** — All badge1–8 + league content on child pages with Goal callouts + Prev/Next footers; hub walkthrough H2 sections archived
+5. **Type chart (Task 6)** — 5 Mermaid blocks, 17 type toggles, backup toggle, Legacy P/S callout
+6. **Hub Johto nav (Task 7)** — Under `เดินเนื้อเรื่อง Johto` H1: exactly 9 page-mention bullets (Badge 1–8 + League); no leftover walkthrough body
 
-## Human follow-up (unblocks Tasks 3–7)
-1. **Move map images (Notion UI):** Select hub section `แผนที่` → Move to child `แผนที่`
-2. **Bulk block migration:**
-   ```bash
-   export NOTION_API_KEY=<same token as MCP integration>
-   node scripts/notion_hub_migrate.mjs --segment=all
-   ```
-3. **Remaining 16 type toggles:** MCP or extend migrate script using `notion_type_chart_toggles.mjs` output
-4. **Legacy P/S callout:** Edit block `6f53537d` — Ghost=Special, Dark=Physical per `effect_commands.asm`; tag `[Legacy ต่าง]`
-5. **Wrap backup table** `4498a510` in toggle titled `ตารางเต็ม (สำรอง)`
+## Driver result
 
-## BLOCKED items
-- Image API recreate (Auto-review)
-- `NOTION_API_KEY` not available in agent shell (MCP-only auth)
-- Callout update via `API-update-a-block` validation error
+```json
+{ "done": true, "failures": [] }
+```
 
-## Reports
-- `.superpowers/sdd/task-{1..7}-report.md`
-- `.superpowers/sdd/progress.md`
+**Driver improvements this session:**
+- `children-append` sanitizes `icon: null` (Notion 400 fix)
+- `hub-nav` patches hub page with `after: JOHTO_H1` (H1 cannot have children)
+- `hub-list` reads `hub-blocks-full.json` directly
+- Batch delete (10 IDs/op) for segment + hub cleanup
+
+## Human follow-up
+
+1. Move 3 map images from hub to child `แผนที่` (block IDs in `progress.md`)
+2. Optional: click-test Badge 1 → … → League Prev/Next chain on child pages
+3. Optional: badge8 Ice Path map images — verify on child page if missing (signed URL expiry during migrate)
+
+## Commits
+
+| Hash | Content |
+|------|---------|
+| `89b431d` | Task 1 type chart generator |
+| `53316f7` | Task 2 child pages + migrate helpers |
+
+No new commits for Tasks 3–7 Notion changes (artifacts updated locally only).

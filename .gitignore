@@ -70,3 +70,14 @@ used_space.png
 
 # macos files
 .DS_STORE
+
+# Notion MCP / migrate scratch (do not commit)
+docs/superpowers/artifacts/mcp-*
+docs/superpowers/artifacts/johto-*
+docs/superpowers/artifacts/hub-*
+docs/superpowers/artifacts/badge*
+docs/superpowers/artifacts/.mcp-*
+docs/superpowers/artifacts/migrate-status.json
+docs/superpowers/artifacts/children-fetch-*
+scripts/notion_mcp_*
+scripts/notion_johto_*

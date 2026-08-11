@@ -38,6 +38,8 @@ Hub page is a single long walkthrough (~400+ blocks): maps, daily services, full
 | Full 17×17 table | Keep as collapsed backup under toggles |
 | Kanto | Stay short on hub Post-game; no Badge children this round |
 
+**Corrected (2026-08-11):** Johto story is **one child page** (`เดินเนื้อเรื่อง Johto`), not Badge 1–8 subpages. Hub nav = single page-mention bullet under H1; badge1–8 + league source pages archived after merge.
+
 ## Architecture
 
 ### Hub (`Pokemon`) — top to bottom

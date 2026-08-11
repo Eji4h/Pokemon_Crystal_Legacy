@@ -32,6 +32,14 @@ Personal walkthrough / notes / discussion live on Notion — treat as the **livi
 
 Page covers: Johto/Kanto route order, daily services, story walkthrough, labels (`[EVENT]`, `[ปริศนา]`, `[เสริม]`, `[สำคัญ]`, `[Legacy ต่าง]`).
 
+## Current play context (user)
+
+Keep this in mind when discussing gameplay / setup — do **not** invent RetroArch steps; confirm before changing configs.
+
+- Emulator: **RetroArch** (not BGB / sameboy as primary)
+- Plan: run **2 RetroArch instances** to **trade starters** (Gen 2 link-cable / netplay style between two saves)
+- When advising trade / DV / gift Pokémon / version exclusives: assume dual-instance trade is available or about to be set up
+
 ## Repo orientation
 
 | Need | Where |
