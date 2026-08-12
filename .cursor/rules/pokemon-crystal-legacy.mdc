@@ -1,5 +1,5 @@
 ---
-description: Pokemon Crystal Legacy — Q&A context + Notion hub for updates/discussion
+description: Pokemon Crystal Legacy — Q&A context, official Google Doc, Notion hub
 alwaysApply: true
 ---
 
@@ -11,10 +11,27 @@ ROM hack based on [pret/pokecrystal](https://github.com/pret/pokecrystal). Goal:
 
 Default work here = **answer questions** about gameplay, Legacy vs vanilla, maps, trainers, data, and code — not silent bulk refactors.
 
-1. Prefer **read + explain** from repo + Notion over inventing facts.
-2. When unsure Legacy vs vanilla Crystal: check source (`data/`, `maps/`, `engine/`) or Notion tags like `[Legacy ต่าง]`.
-3. Cite files with paths/line ranges when claiming code behavior.
+1. Prefer **read + explain** from official Google Doc + Notion + repo — do not invent facts.
+2. When unsure Legacy vs vanilla Crystal: check Google Doc / local digest, then source (`data/`, `maps/`, `engine/`) or Notion tags like `[Legacy ต่าง]`.
+3. Cite files with paths/line ranges when claiming code behavior; for Doc-only claims tag `[Doc]`.
 4. Do **not** commit, push, or open PRs unless user asks.
+5. If Doc and repo disagree, **believe repo** and note `[Repo check]` (Doc can lag).
+
+## Official Google Doc (must read for Legacy features)
+
+Authoritative feature list for this ROM (stats, moves, evolutions, wild, marts, QoL, trainers, Hard Mode, etc.):
+
+- URL (preferred deep link): https://docs.google.com/document/d/1Zku4s049Sri266zr4BhF-riqecOOHjytfZPbQULmcYk/edit?tab=t.ktbsbht00gcp#heading=h.rf8lnnn385oi
+- Same doc (README / share): https://docs.google.com/document/d/1Zku4s049Sri266zr4BhF-riqecOOHjytfZPbQULmcYk/edit
+- Local cache: `.superpowers/sdd/crystal-legacy-official-doc-digest.md` + raw export `crystal-legacy-gdoc-raw.txt`
+
+| User intent | Agent action |
+|---|---|
+| Ask Legacy features / balance / QoL / wild / evo / move changes | Fetch or search Google Doc (or local digest) first; cross-check repo |
+| Fill Notion / play notes from Doc | Use Doc + digest; verify critical claims in asm before writing |
+| Doc offline / export stale | Prefer Doc URL refresh; fall back to digest and mark staleness |
+
+Do **not** treat Bulbapedia vanilla Crystal as Legacy truth when Doc or repo covers the topic.
 
 ## Notion hub (updates + discussion)
 
@@ -26,7 +43,7 @@ Personal walkthrough / notes / discussion live on Notion — treat as the **livi
 
 | User intent | Agent action |
 |---|---|
-| Ask about story / map / QoL / Legacy diffs | Read Notion blocks first; cross-check repo if needed |
+| Ask about story / map / QoL / Legacy diffs | Read Notion + Google Doc (or digest); cross-check repo if needed |
 | "อัปเดต Notion" / note a finding | Append or edit Notion via MCP (do not invent structure) |
 | Discuss strategy / next steps | Prefer writing summary or options **into Notion** when user wants a durable record |
 
@@ -62,7 +79,7 @@ Keep this in mind when discussing gameplay / setup — do **not** invent RetroAr
 | Setup / build | `INSTALL.md` (RGBDS **0.5.2**) |
 | FAQ / pret docs | `FAQ.md`, `docs/` |
 | Style | `STYLE.md` |
-| Feature overview | README + [Google Doc](https://docs.google.com/document/d/1Zku4s049Sri266zr4BhF-riqecOOHjytfZPbQULmcYk) |
+| Feature overview | Official Google Doc (section above) + local digest under `.superpowers/sdd/` |
 | Code explore | `graphify query/path/explain` before broad Grep/Read |
 
 ## Code edits (when asked)
