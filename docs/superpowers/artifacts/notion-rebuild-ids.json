@@ -1,0 +1,32 @@
+{
+  "old": {
+    "hub": "3b7da311-a58e-80c2-b287-de7ce0dc63fd",
+    "map": "3b8da311-a58e-819f-b27c-eb97dbaca47b",
+    "johto": "3b8da311-a58e-811f-92dd-cdb621adacd4"
+  },
+  "archive": "3bcda311-a58e-8144-92fb-f1e2b7646766",
+  "parent": null,
+  "hub": "3bcda311-a58e-811a-ac59-ed765d3e5891",
+  "pages": {
+    "johto": "3bcda311-a58e-8165-9c9d-d8ee37f1a837",
+    "kanto": "3bcda311-a58e-817f-8791-f672d38adf74"
+  },
+  "toggles": {
+    "part1": "New Bark (Part 1)",
+    "part2": "Cherrygrove (Part 2)",
+    "part3": "Violet (Part 3)",
+    "part4": "Union Cave / Ruins (Part 4)",
+    "part5": "Azalea (Part 5)",
+    "part6": "Goldenrod (Part 6)",
+    "part7": "National Park (Part 7)",
+    "part8": "Ecruteak (Part 8)",
+    "part9": "Olivine (Part 9)",
+    "part10": "Cianwood (Part 10)",
+    "part11": "Mahogany (Part 11)",
+    "part12": "Radio Tower (Part 12)",
+    "part13": "Blackthorn (Part 13)",
+    "part14": "Victory Road (Part 14)",
+    "part15": "Indigo Plateau (Part 15)",
+    "postgame_johto": "หลังเกม Johto (GS Ball / Celebi / Tin Tower)"
+  }
+}
